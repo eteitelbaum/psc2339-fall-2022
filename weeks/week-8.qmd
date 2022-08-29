@@ -1,0 +1,29 @@
+---
+title: "Week 8"
+subtitle: "Populism and Social Policy"
+editor: visual
+---
+
+::: callout-important
+Exam 2 is due on Sunday, October 23
+:::
+
+## Readings
+
+📖 James Putzel, ["The 'Populist' Right Challenge to Neoliberalism"](https://onlinelibrary-wiley-com.proxygw.wrlc.org/doi/full/10.1111/dech.12578)
+
+## Slides
+
+🖥️ Populism and social policy
+
+🖥️ Exam 2 review
+
+## Assignments
+
+📘 Exam 2
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

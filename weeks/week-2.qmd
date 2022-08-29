@@ -1,0 +1,29 @@
+---
+title: "Week 2"
+subtitle: "The Political Economy of Regime Type"
+editor: visual
+---
+
+## Readings
+
+📖 Acemoglu and Robinson, ["Rents and Economic Development"](https://link-springer-com.proxygw.wrlc.org/article/10.1007/s11127-019-00645-z)
+
+📖 Cheibub and Vreeland, ["Modernization Theory"](https://doi.org/10.1093/oxfordhb/9780199845156.013.26)
+
+## Dataquest
+
+📉 [How to Use Data](https://app.dataquest.io/c/141/m/757/how-to-use-data/1/how-to-use-data)
+
+📉 [The Data Analysis Process](https://app.dataquest.io/c/141/m/758/the-data-analysis-process)
+
+## Slides
+
+🖥️ Institutions and development
+
+🖥️ Modernization theory
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

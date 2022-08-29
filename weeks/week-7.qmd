@@ -1,0 +1,35 @@
+---
+title: "Week 7"
+subtitle: "The Legacies of Neoliberalism"
+editor: visual
+---
+
+::: callout-important
+"Data Assignment 2: Cleaning & Visualizing Data in Excel" is due on Sunday, October 16
+:::
+
+## Readings
+
+Archibong et. al., ["Washington Consensus Reforms and Economic Performance in Sub-Saharan Africa"](https://www.brookings.edu/wp-content/uploads/2021/02/Washington-Consensus-Reforms.pdf)
+
+Benería et. al., ["Markets, Globalization and Gender"](https://eresgw-wrlc-org.proxygw.wrlc.org/x/docs/gelm/teitelbaum_emmanuel/LourdesChapter3.pdf)
+
+## Dataquest
+
+📉 [Line, Scatter & Combo Charts](https://app.dataquest.io/c/131/m/670/line%2C-scatter%2C-and-combo-charts/1/introduction)
+
+## Slides
+
+🖥️ Washington consensus reforms
+
+🖥️ The gendered legacy of reform
+
+## Assignments
+
+🧮 Data Assignment 2: Cleaning & Visualizing Data in Excel
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

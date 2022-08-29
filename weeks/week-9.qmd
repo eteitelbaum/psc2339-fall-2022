@@ -1,0 +1,27 @@
+---
+title: "Week 9"
+subtitle: "Final Project Workshop I"
+editor: visual
+---
+
+::: callout-important
+"Project Assignment 1: Outline and Sources" is due on Sunday, October 30
+:::
+
+::: callout-important
+Thursday's workshop will be held virtually on Zoom.
+:::
+
+## Readings
+
+📖 Mary Cullen, ["How to Write and Format a White Paper"](https://www.instructionalsolutions.com/blog/how-to-write-white-paper)
+
+## Assignments
+
+✍️ Project Assignment 1: Outline and Sources
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

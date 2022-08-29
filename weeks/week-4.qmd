@@ -1,0 +1,29 @@
+---
+title: "Week 4"
+subtitle: "Women's Empowerment"
+editor: visual
+---
+
+::: callout-important
+Exam 1 is due on Sunday, September 25
+:::
+
+## Readings
+
+📖 Hessami and Lopes da Fonseca, ["Female Political Representation and Substantive Effects on Policies"](https://www.econstor.eu/bitstream/10419/216551/1/cesifo1_wp8155.pdf)
+
+## Slides
+
+🖥️ Women's empowerment
+
+🖥️ Exam 1 review
+
+## Assignments
+
+📘 Exam 1
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

@@ -1,0 +1,31 @@
+---
+title: "Week 1"
+subtitle: "Course Overview"
+editor: visual
+---
+
+## Readings
+
+📖 Review the [course syllabus](/course-syllabus.html) and [support
+resources](/course-support.html)
+
+📖 Polanyi, [*The Great
+Transformation*](https://ebookcentral.proquest.com/lib/gwu/reader.action?docID=3117969&ppg=87),
+Chapter 4.
+
+## Dataquest
+
+📉 [Defining
+Data](https://app.dataquest.io/c/141/m/756/defining-data/1/introduction-to-data-foundations)
+
+## Slides
+
+🖥️ Course overview
+
+🖥️ The economy and society
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

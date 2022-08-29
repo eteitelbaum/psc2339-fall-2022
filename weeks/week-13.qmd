@@ -1,0 +1,23 @@
+---
+title: "Week 13"
+subtitle: "Final Project Workshop II"
+editor: visual
+---
+
+::: callout-important
+"Project Assignment 2: White Paper" is due on Sunday, November 27
+:::
+
+::: callout-important
+Tuesday's workshop will be held virtually on Zoom.
+:::
+
+## Assignments
+
+✍️ Project Assignment 2: White Paper
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::
