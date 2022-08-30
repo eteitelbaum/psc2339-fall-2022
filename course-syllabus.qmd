@@ -6,7 +6,7 @@ editor: visual
 ## Course information
 
 | Course: PSC 2339-Comparative Political Economy
-| Lecture: TR 2:20-3:30
+| Lecture: TR 12:45-2:00
 | Classroom: 1776 G ST NW, Rm C-119
 
 ## Prerequisites
