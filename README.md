@@ -1,6 +1,6 @@
 # Website for PSC 2339-Comparative Political Economy at The George Washington University 
 
-🔗 https://www.psc2339.com/fall-2022
+🔗 https://www.psc2339.com
 
 ## Attribution
 
