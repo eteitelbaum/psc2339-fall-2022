@@ -1,0 +1,57 @@
+---
+title: "Project Assignment 3"
+subtitle: "Power BI Report"
+editor: visual
+---
+
+## Overview
+
+Now that you have your data in the right format, it is time to make your
+Power BI report. For step by step instructions on how to do this, see
+the series of YouTube videos in [this
+playlist](https://www.youtube.com/playlist?list=PLz_H8pWWERSwho0MqfYlDT46PJD6GuH20).
+Your report should include at least four visualizations. The default
+selection would include a column chart, a line chart, a map and a
+scatter plot but there can be some flexibility in terms of the exact
+composition. Ideally, the visualizations should interact with one
+another, meaning that when you click on a country represented on the map
+the data for that country is reflected in the line chart, bar chart,
+etc.
+
+## Steps
+
+1.  Create a Power BI report following the steps outlined in the videos
+    linked above.
+2.  Using a screen recording software like
+    [Vimeo](https://vimeo.com/features/screen-recorder), submit a video
+    summarizing the main insights derived from your report.
+    Alternatively, you can submit a two to three page written summary
+    covering the same material. Here are some things to talk about in
+    your video:
+
+-   What are some of the country-level trends in the data? Did any
+    countries stand out in terms of dramatic upward or downward trends?
+-   How do countries compare to one another in terms of average values
+    of your variables of interst? Did any countries stand out or
+    surprise you in terms of average levels?
+-   What interesting relationships did you find between your key
+    variable of interest and another variable (or variables)?
+-   What connections did you make to things that we read or discussed
+    regarding these variables in class or that you had read during the
+    course of your research on this topic?
+
+3.  Sign up for a free trial of Power BI Pro so that you can share the
+    link to your app. You can share the link in the text field for the
+    assignment submission.
+4.  If this method of sharing your report fails, you can try exporting
+    your app as a .pbix file or (as a last resort) a .pdf. You should
+    really only use the .pdf option if you are submitting a video,
+    though, as I would like to see your report in operation.
+
+## What to Submit
+
+1.  Your video or written summary of your insights.
+2.  A link to your video.
+
+As always, if you have any questions about anything, please ask. I hope
+you enjoy the Power BI assignment!

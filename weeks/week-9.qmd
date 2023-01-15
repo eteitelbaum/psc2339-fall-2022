@@ -5,20 +5,23 @@ editor: visual
 ---
 
 ::: callout-important
-"Project Assignment 1: Outline and Sources" is due on Sunday, October 30
+"Project Assignment 1: Outline and Sources" is due on Sunday, November 6
 :::
 
 ::: callout-important
-Thursday's workshop will be held virtually on Zoom.
+Thursday's workshop will be held
+[virtually](https://libguides.gwu.edu/datasetsdatabases) on Zoom.
 :::
 
 ## Readings
 
-📖 Mary Cullen, ["How to Write and Format a White Paper"](https://www.instructionalsolutions.com/blog/how-to-write-white-paper)
+📖 Mary Cullen, ["How to Write and Format a White
+Paper"](https://www.instructionalsolutions.com/blog/how-to-write-white-paper)
 
 ## Assignments
 
-✍️ Project Assignment 1: Outline and Sources
+✍️ [Project Assignment 1: Outline and
+Sources](/assignments/project-assignment-1.html)
 
 <br><br>
 

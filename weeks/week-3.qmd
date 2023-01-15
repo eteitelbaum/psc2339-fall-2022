@@ -5,30 +5,36 @@ editor: visual
 ---
 
 ::: callout-important
-"Data Assignment 1: Working With Data in Excel" is due on Sunday, September 18
+"Data Assignment 1: Working With Data in Excel" is due on Sunday,
+September 18
 :::
 
 ## Readings
 
-📖Kaufman and Haggard, ["Democratic Decline in the United States"](https://doi.org/10.1017/S1537592718003377)
+📖Kaufman and Haggard, ["Democratic Decline in the United
+States"](https://doi.org/10.1017/S1537592718003377)
 
-📖Michael Ross, [The Oil Curse](https://www-jstor-org.proxygw.wrlc.org/stable/j.ctt7s3wz.10)*,* Chapter 3
+📖Michael Ross, [The Oil
+Curse](https://www-jstor-org.proxygw.wrlc.org/stable/j.ctt7s3wz.10)*,*
+Chapter 3
 
 ## Dataquest
 
-📉 [Importing Data into Excel Spreadsheets](https://app.dataquest.io/c/127/m/652/importing-data-into-excel-spreadsheets/1/welcome-to-the-course)
+📉 [Importing Data into Excel
+Spreadsheets](https://app.dataquest.io/c/127/m/652/importing-data-into-excel-spreadsheets/1/welcome-to-the-course)
 
-📉 [Organizing Data](https://app.dataquest.io/c/127/m/653/organizing-data/1/introduction)
+📉 [Organizing
+Data](https://app.dataquest.io/c/127/m/653/organizing-data/1/introduction)
 
 ## Slides
 
-🖥️ Democratic backsliding
+🖥️ [Democratic backsliding](/slides/lecture-3.1.html)
 
-🖥️ The resource curse
+🖥️ [The resource curse](/slides/lecture-3.2.html)
 
 ## Assignments
 
-🧮 Data Assignment 1: Working With Data in Excel
+🧮 [Data Assignment 1](/assignments/data-assignment-1.html)
 
 <br><br>
 

@@ -2,90 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.psc2339.com/about.html</loc>
-    <lastmod>2022-08-30T22:56:50.134Z</lastmod>
+    <lastmod>2022-12-08T16:43:26.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/assignments/data-assignment-1.html</loc>
+    <lastmod>2022-12-08T16:43:27.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/assignments/data-assignment-2.html</loc>
+    <lastmod>2022-12-08T16:43:27.925Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/course-description.html</loc>
-    <lastmod>2022-08-30T22:56:50.793Z</lastmod>
+    <lastmod>2022-12-08T16:43:28.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/course-links.html</loc>
+    <lastmod>2022-12-08T16:43:29.112Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/course-support.html</loc>
-    <lastmod>2022-08-30T22:56:51.418Z</lastmod>
+    <lastmod>2022-12-08T16:43:29.716Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/course-syllabus.html</loc>
-    <lastmod>2022-08-30T22:56:52.083Z</lastmod>
+    <lastmod>2022-12-08T16:43:30.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/faq.html</loc>
+    <lastmod>2022-12-08T16:43:31.373Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/index.html</loc>
-    <lastmod>2022-08-30T22:56:54.768Z</lastmod>
+    <lastmod>2022-12-08T16:43:32.785Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/instructor.html</loc>
-    <lastmod>2022-08-30T22:56:55.434Z</lastmod>
+    <lastmod>2022-12-08T16:43:33.560Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/LICENSE.html</loc>
-    <lastmod>2022-08-30T22:56:56.405Z</lastmod>
+    <lastmod>2022-12-08T16:43:34.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/project/project-assignment-1.html</loc>
+    <lastmod>2022-12-08T16:43:35.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/project/project-assignment-2.html</loc>
+    <lastmod>2022-12-08T16:43:35.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/project/project-assignment-3.html</loc>
+    <lastmod>2022-12-08T16:43:36.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/project/project-datasets.html</loc>
+    <lastmod>2022-12-08T16:43:37.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-1.html</loc>
+    <lastmod>2022-12-08T16:43:38.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-10.1.html</loc>
+    <lastmod>2022-12-08T16:43:38.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-10.2.html</loc>
+    <lastmod>2022-12-08T16:43:39.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-11.1.html</loc>
+    <lastmod>2022-12-08T16:43:39.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-11.2.html</loc>
+    <lastmod>2022-12-08T16:43:40.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-12.1.html</loc>
+    <lastmod>2022-12-08T16:43:40.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-12.2.html</loc>
+    <lastmod>2022-12-08T16:43:41.699Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-14.1.html</loc>
+    <lastmod>2022-12-08T16:43:42.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-14.2.html</loc>
+    <lastmod>2022-12-08T16:43:42.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-2.1.html</loc>
+    <lastmod>2022-12-08T16:43:43.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-2.2.html</loc>
+    <lastmod>2022-12-08T16:43:44.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-3.1.html</loc>
+    <lastmod>2022-12-08T16:43:45.390Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-3.2.html</loc>
+    <lastmod>2022-12-08T16:43:46.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-4.1.html</loc>
+    <lastmod>2022-12-08T16:43:47.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-4.2.html</loc>
+    <lastmod>2022-12-08T16:43:47.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-5.1.html</loc>
+    <lastmod>2022-12-08T16:43:48.599Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-5.2.html</loc>
+    <lastmod>2022-12-08T16:43:49.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-6.1.html</loc>
+    <lastmod>2022-12-08T16:43:50.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-6.2.html</loc>
+    <lastmod>2022-12-08T16:43:51.400Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-7.1.html</loc>
+    <lastmod>2022-12-08T16:43:52.197Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-7.2.html</loc>
+    <lastmod>2022-12-08T16:43:52.744Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-8.1.html</loc>
+    <lastmod>2022-12-08T16:43:53.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.psc2339.com/slides/lecture-8.2.html</loc>
+    <lastmod>2022-12-08T16:43:53.763Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-1.html</loc>
-    <lastmod>2022-08-30T22:56:57.069Z</lastmod>
+    <lastmod>2022-12-08T16:43:54.365Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-10.html</loc>
-    <lastmod>2022-08-30T22:56:57.738Z</lastmod>
+    <lastmod>2022-12-08T16:43:54.949Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-11.html</loc>
-    <lastmod>2022-08-30T22:56:58.413Z</lastmod>
+    <lastmod>2022-12-08T16:43:55.534Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-12.html</loc>
-    <lastmod>2022-08-30T22:56:59.198Z</lastmod>
+    <lastmod>2022-12-08T16:43:56.095Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-13.html</loc>
-    <lastmod>2022-08-30T22:57:00.010Z</lastmod>
+    <lastmod>2022-12-08T16:43:56.663Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-14.html</loc>
-    <lastmod>2022-08-30T22:57:00.717Z</lastmod>
+    <lastmod>2022-12-08T16:43:57.216Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-15.html</loc>
-    <lastmod>2022-08-30T22:57:01.379Z</lastmod>
+    <lastmod>2022-12-08T16:43:57.786Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-2.html</loc>
-    <lastmod>2022-08-30T22:57:02.051Z</lastmod>
+    <lastmod>2022-12-08T16:43:58.355Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-3.html</loc>
-    <lastmod>2022-08-30T22:57:02.681Z</lastmod>
+    <lastmod>2022-12-08T16:43:58.931Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-4.html</loc>
-    <lastmod>2022-08-30T22:57:03.315Z</lastmod>
+    <lastmod>2022-12-08T16:43:59.511Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-5.html</loc>
-    <lastmod>2022-08-30T22:57:03.999Z</lastmod>
+    <lastmod>2022-12-08T16:44:00.090Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-6.html</loc>
-    <lastmod>2022-08-30T22:57:04.658Z</lastmod>
+    <lastmod>2022-12-08T16:44:00.674Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-7.html</loc>
-    <lastmod>2022-08-30T22:57:05.315Z</lastmod>
+    <lastmod>2022-12-08T16:44:01.261Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-8.html</loc>
-    <lastmod>2022-08-30T22:57:05.985Z</lastmod>
+    <lastmod>2022-12-08T16:44:01.819Z</lastmod>
   </url>
   <url>
     <loc>https://www.psc2339.com/weeks/week-9.html</loc>
-    <lastmod>2022-08-30T22:57:06.618Z</lastmod>
+    <lastmod>2022-12-08T16:44:02.377Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psc2339/fall-2022/slides/lecture-1.html</loc>
+    <lastmod>2023-01-15T13:35:50.362Z</lastmod>
   </url>
 </urlset>

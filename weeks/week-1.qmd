@@ -20,9 +20,7 @@ Data](https://app.dataquest.io/c/141/m/756/defining-data/1/introduction-to-data-
 
 ## Slides
 
-🖥️ Course overview
-
-🖥️ The economy and society
+🖥[Polany's Great Transformation](/slides/lecture-1.html)
 
 <br><br>
 

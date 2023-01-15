@@ -6,21 +6,27 @@ editor: visual
 
 ## Readings
 
-📖 Stokes et. al., [*Brokers, Voters and Clientelism*](https://blackboard.gwu.edu/bbcswebdav/pid-12158376-dt-content-rid-102784060_2/xid-102784060_2), Chapter 1
+📖 Stokes et. al., [*Brokers, Voters and
+Clientelism*](https://blackboard.gwu.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_12522450_1&course_id=_374099_1 "Stokes et. al."),
+Chapter 1
 
-📖 Aspinall and Berenschot, [*Democracy for Sale*](https://ebookcentral.proquest.com/lib/gwu/reader.action?docID=5732981&ppg=112), Chapter 5
+📖 Aspinall and Berenschot, [*Democracy for
+Sale*](https://ebookcentral.proquest.com/lib/gwu/reader.action?docID=5732981&ppg=112),
+Chapter 5
 
 ## Dataquest
 
-📉 [Cleaning Data, Part I](https://app.dataquest.io/c/127/m/654/cleaning-data---part-i/1/introduction)
+📉 [Cleaning Data, Part
+I](https://app.dataquest.io/c/127/m/654/cleaning-data---part-i/1/introduction)
 
-📉 [Cleaning Data, Part II](https://app.dataquest.io/c/127/m/655/cleaning-data-part-ii/1/introduction)
+📉 [Cleaning Data, Part
+II](https://app.dataquest.io/c/127/m/655/cleaning-data-part-ii/1/introduction)
 
 ## Slides
 
-🖥️ Programmatic politics vs. clientelism
+🖥️ [Programmatic politics vs. clientelism](/slides/lecture-5.1.html)
 
-🖥️ Vote buying
+🖥️ [Vote buying](/slides/lecture-5.2.html)
 
 ## Assignments
 

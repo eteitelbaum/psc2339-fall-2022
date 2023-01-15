@@ -9,23 +9,31 @@ Exam 3 is due on Sunday, December 11.
 :::
 
 ::: callout-important
-"Project Assignment 3: Power BI Report" is due by 11:59 p.m. on day of the scheduled final.  
-This is just the due date for the Power BI assignment. There is no final for this course. 
+"Project Assignment 3: Power BI Report" is due by 11:59 p.m. on day of
+the scheduled final (December 20).\
+This is just the due date for the Power BI assignment. There is no final
+for this course.
 :::
 
 ## Readings
 
-📖 Aklin and Matto, ["Prisoners of the Wrong Dilemma"](https://direct.mit.edu/glep/article/20/4/4/95068/Prisoners-of-the-Wrong-Dilemma-Why-Distributive)
+📖 Aklin and Matto, ["Prisoners of the Wrong
+Dilemma"](https://direct.mit.edu/glep/article/20/4/4/95068/Prisoners-of-the-Wrong-Dilemma-Why-Distributive)
 
 ## Slides
 
-🖥️ Climate change and collective action
+🖥️ Climate change and collective action (lecture cancelled)
+
+[Exam 3 Review (Factile
+game)](https://www.playfactile.com/psc2339midterm)
 
 ## Assignments
 
-📘 Exam 3
+📘 [Exam
+3](https://blackboard.gwu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_12655260_1&course_id=_374099_1)
 
-✍️ Project Assignment 3: Power BI Report
+✍️ [Project Assignment 3: Power BI
+Report](/project/project-assignment-3.html)
 
 <br><br>
 

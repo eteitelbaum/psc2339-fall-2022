@@ -1,0 +1,94 @@
+---
+title: "Lecture 7.2"
+subtitle: "The Gendered Legacy of Reform"
+author: "Emmanuel Teitelbaum"
+footer: "[PSC 2339 Website](https://psc2339.com)"
+logo: "images/cpe_logo.png"
+format:
+  revealjs:
+    theme: moon
+    transition: fade
+    slide-number: true
+execute:
+  echo: false
+  freeze: auto
+---
+
+
+# How Women are Incorporated into the Workforce
+
+## Discussion 1
+
+- What does Benaría mean by the term “feminization of labor” How is it manifested in the following sectors/activities? 
+	- Manufacturing
+	- Agriculture
+	- Services
+	- Migration
+	- Human Trafficking
+
+## Discussion 2
+
+- Benería identifies three potential effects of women’s employment on gender relations. 
+	- Liberating
+	- Intensifying
+	- Reconstitution of gender inequalities
+- Describe each of these. Which effect do you think is the strongest? 
+
+
+# Policy Models
+
+## Policy Models
+
+- What policies effectively increase women’s empowerment?
+- Three (that we’ll consider)
+	- Empowerment through development 
+	- Electoral quotas 
+	- Empowerment through finance/microcredit 
+- Two things to consider
+	- Effectiveness
+	- Attainability
+
+## Development and Empowerment (Duflo)
+
+- Discussion
+- Development --> Empowerment
+  - How does development empower women? 
+  - Is development the solution to discrimination and VAW? 
+
+- Empowerment --> Development
+  - What does Duflo mean by "empowerment"?  
+  - Is empowering women the answer for development?  
+
+## Gender Quotas (Beaman)
+
+- Districts randomly selected for reserved seats
+- Some districts selected more than once
+- Basic findings
+	- Districts selected twice in a row see changes in how parents view daughters and how girls perceive themselves
+	- Districts selected twice in a row see improvements in educational outcomes for girls
+	- No effects on labor force participation and education outcomes for older women 
+- Mechanisms:
+	- Changing policies (which changes beliefs)
+	- Providing role models
+
+## Grameen Bank
+
+- Muhammad Yunus
+	- Winner of Nobel Peace Prize (and GW President's Medal)
+
+- Inspired by stool makers of Jobra village
+	- Earned 2 cents per day
+
+- Set up Grameen bank to fill credit void for rural women
+
+- Repayment based on trust
+
+
+## Discussion
+
+- Which Model is Most Compelling? 
+	- Development 
+	- Gender Quotas
+	- Microcredit
+
+- Why? 

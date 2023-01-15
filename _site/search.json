@@ -7,11 +7,46 @@
     "text": "This site was built with Quarto and is based on a template provided by Mine Çetinkaya-Rundel under a Creative Commons Attribution-NonCommercial 4.0 Iicense."
   },
   {
+    "objectID": "assignments/data-assignment-1.html",
+    "href": "assignments/data-assignment-1.html",
+    "title": "Data Assignment 1",
+    "section": "",
+    "text": "The purpose of this exercise is to teach you about cell references and basic functions in Microsoft Excel. You will find the assigned units in Dataquest and this video helpful in completing it."
+  },
+  {
+    "objectID": "assignments/data-assignment-1.html#steps",
+    "href": "assignments/data-assignment-1.html#steps",
+    "title": "Data Assignment 1",
+    "section": "Steps",
+    "text": "Steps\n\nGo to Gapminder’s data download page.\nSelect an indicator that you want to work with and download the Excel file. You can choose any indicator besides life expectancy (which was used in the instructional video).\nAfter opening the file in Excel, have a look at the data. Make sure that there are not too many observations and that the file includes numbers and not text, e.g. “1,000,000” as opposed to “1M.” If there are problems with the data, try a different indicator. Make sure that there are years across the top row and country names in the columns. Think about what units the data are in., e.g. thousands of dollars, millions of people, etc. so that you have a sense of what you are working with. Look for some basic trends and patterns in the data and see if they make sense to you.\nIf the data look good, create a new worksheet. Name it something like “analysis.”\nIn the new worksheet, choose four years to analyze that are roughly evenly spaced across the time period covered by the data. Follow the example in the video to calculate the following values: minimum, median, mean, and maximum. Next, choose a value that seems like an interesting threshold to explore. Count the number and percentage of countries above above that threshold. Put the information in a table like this:\n\n\n\n\n\nYear \\(X\\)\nYear \\(Y\\)\nYear \\(Z\\)\nYear \\(Q\\)\n\n\n\n\nMinimum\n\n\n\n\n\n\nMedian\n\n\n\n\n\n\nMean\n\n\n\n\n\n\nMaximum\n\n\n\n\n\n\nNo. > \\(x\\)\n\n\n\n\n\n\n% > \\(x\\)\n\n\n\n\n\n\n\n\nIdentify an interesting twenty-year period to analyze Take averages of the value of your indicator over this period and place them in a separate row.\nSave your workbook.\nUpload your workbook to Blackboard."
+  },
+  {
+    "objectID": "assignments/data-assignment-2.html",
+    "href": "assignments/data-assignment-2.html",
+    "title": "Data Assignment 2",
+    "section": "",
+    "text": "The purpose of this assignment is for you to learn how to produce data visualizations in Excel. You will find the assigned modules in Dataquest and the following videos helpful in completing it: bar chart; line chart; scatter plot; and a map."
+  },
+  {
+    "objectID": "assignments/data-assignment-2.html#steps",
+    "href": "assignments/data-assignment-2.html#steps",
+    "title": "Data Assignment 2",
+    "section": "Steps",
+    "text": "Steps\n\nGo to the World Bank’s World Development Indicators Database.\nChoose an indicator that you want to work with. It can anything but female labor force participation but it should be an indicator with a good amount of coverage, meaning that the data are available for most countries and years.\nSelect a group of four or five countries to compare and create a bar chart. Follow the steps in the bar chart video to create a bar chart comparing those countries. Save your file.\nUsing those same countries, follow the steps in the line chart video to create a line chart for your countries. Save the file with your newly created line chart.\nNow select all countries and one other indicator to compare your indicator with. This should be something that you think is related to your indicator, e.g. would display a positive or negative correlation with your indicator. Follow the steps in the scatter plot video to create a scatter plot for your indicator and the other variable you have chosen. Save your file with the new scatter plot visualization.\nNow follow the steps in the map video to create a map visualization for your indicator. Save the file with the visualization.\nCopy the four visualizations that you have made from the Excel files and paste them into a Word file. Make sure that each visualization has an appropriate title. Now below each visualization include a source note and write a line or two describing what you see in the visualization (e.g. trends, comparisons relationshsips).\nSave the Word file and upload it to Blackboard."
+  },
+  {
     "objectID": "course-description.html",
     "href": "course-description.html",
     "title": "Course Description",
     "section": "",
     "text": "This is a survey course in comparative political economy, a field of inquiry within the subfield of comparative politics that explores the interaction of politics and the economy. Comparative political economy is one of the most active research fields in comparative politics and is comprised of a wide range of research topics. Frequently the focus of research in comparative political economy is on how institutions influence economic outcomes. How, for example, do property rights facilitate investment and economic growth? How do different colonial legacies inhibit or promote economic performance? Sometimes, however, institutions become the dependent variable in our analysis. How does wealth influence regime stability? Or how does economic globalization affect welfare states? This course will address questions like these through an exploration of relevant literature. The syllabus emphasizes current research agendas in political economy, and its main goal is to provide students with a broad overview of contemporary debates in the field."
+  },
+  {
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Microsoft 365\n🔗 on GW IT’s Microsoft 365 Page\n\n\nMicrosoft Power BI\n🔗 on GW’s My Apps Page\n\n\nLecture Recordings\n🔗 on Blackboard\n\n\nProf T’s Zoom Office\n🔗 on Zoom\n\n\nOffice Hours Appointments\n🔗 on Calendly"
   },
   {
     "objectID": "course-support.html",
@@ -98,11 +133,25 @@
     "text": "University policies\n\nAcademic integrity\nBy taking this course, you are agreeing to abide by the GWU code of Academic Integrity. According to this code, academic dishonesty is defined as “cheating of any kind, including misrepresenting one’s own work, taking credit for the work of others without crediting them and without appropriate authorization, and the fabrication of information.” Note that this is not a comprehensive list. Other types of academic dishonesty include providing false or misleading information in an effort to postpone an exam or to get an extension on an assignment and providing substantially similar material for a writing assignment for assignments in two different courses without the prior permission of the faculty members teaching those courses. The minimum penalty for academic dishonesty is a failing grade on the assignment in question and the maximum penalty is failure of the class. Furthermore, the violation will be reported to GW’s Office of Academic Integrity, which can impose additional penalties beyond those I may impose.\n\n\nReligious holidays\nStudents must notify faculty during the first week of the semester in which they are enrolled in the course, or as early as possible, but no later than three weeks prior to the absence, of their intention to be absent from class on their day(s) of religious observance. If the holiday falls within the first three weeks of class, the student must inform faculty in the first week of the semester. For details and policy, see “Religious Holidays.”\n\n\nUse of electronic materials and class recordings\nStudents are encouraged to use electronic course materials, including recorded class sessions, for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. Please contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Please contact Disability Support Services if you have questions or need assistance in accessing electronic course materials."
   },
   {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Please be sure that you are logged into Gelman when trying to access the course readings. Most of the readings links will take you directly to the login page if you are not already logged in. But some of them require you to be logged in ahead of time. To log in to Gelman, click on the green “My Account” icon on the Gelman homepage."
+  },
+  {
+    "objectID": "faq.html#i-am-having-trouble-viewing-the-lessons-on-dataquest.-how-do-i-get-help-with-that",
+    "href": "faq.html#i-am-having-trouble-viewing-the-lessons-on-dataquest.-how-do-i-get-help-with-that",
+    "title": "Frequently Asked Questions",
+    "section": "I am having trouble viewing the lessons on Dataquest. How do I get help with that?",
+    "text": "I am having trouble viewing the lessons on Dataquest. How do I get help with that?\nIf you cannot log in to Dataquest at all, make sure that you have responded to the invitation email that I sent you through Dataquest. Then, make that you are using the email address associated with that invitation. This address will be the Net ID listed for you in Blackboard plus the suffix “@gwu.edu.”\nSometimes people have trouble with pages loading or other errors on the site. Sometime this has to do with the browser that you are using. People have had problems with Safari, for example. So first try another browser.\nAnother issue could be that you are looking at the wrong tab. Make sure that you have clicked on the “Remote session” tab.\n\nIf you can see the lesson but not the spreadsheet, one option is to simply download the the spreadsheet and open it on your computer. To download a spreadsheet, click the tab with the spreadsheet name and then the little cloud icon.\n\nIf none of those things work, then please report the matter to Dataquest support by clicking on the question mark icon. They are usually pretty responsive."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nTopic\nReading\nVideo\nSlides\nSkill\nDataquest\nAssignment\n\n\n\n\n1\nAug 30\nCourse overview\n\n\n🖥️\nExplore MS 365 & Dataquest\n\n\n\n\n\nSep 1\nThe economy and society\n📖\n\n🖥️\nUnderstanding data\n📉\n\n\n\n2\nSep 6\nInstitutions and development\n📖\n\n🖥️\nUsing data\n📉\n\n\n\n\nSep 8\nModernization theory\n📖\n\n🖥️\nAnalyzing data\n📉\n\n\n\n3\nSep 13\nDemocratic backsliding\n📖\n📺\n🖥️\nImporting data\n📉\n\n\n\n\nSep 15\nThe resource curse\n📖\n📺\n🖥️\nOrganizing data\n📉\n🧮\n\n\n4\nSep 20\nWomen’s empowerment\n📖\n\n🖥️\nWriting with Zotero\n\n\n\n\n\nSep 22\nExam 1 review\n\n\n🖥️\n\n\n📘\n\n\n5\nSep 27\nProgrammatic politics vs. clientelism\n📖\n\n🖥️\nCleaning data I\n📉\n\n\n\n\nSep 29\nVote buying\n📖\n\n🖥️\nCleaning data II\n📉\n\n\n\n6\nOct 4\nEthnicity & public goods\n📖\n\n🖥️\nBar charts\n📉\n\n\n\n\nOct 6\nDemocracy & redistribution\n📖\n\n🖥️\nLine charts\n📉\n\n\n\n7\nOct 11\nWashington consensus reforms\n📖\n\n🖥️\nScatter plots\n📉\n\n\n\n\nOct 13\nThe gendered legacy of reform\n📖\n\n🖥️\nMaps\n\n🧮\n\n\n8\nOct 18\nPopulism and social policy\n📖\n📺\n🖥️\n\n\n\n\n\n\nOct 20\nExam 2 review\n\n\n🖥️\n\n\n📘\n\n\n9\nOct 25\nNo class-Fall break\n\n\n\n\n\n\n\n\n\nOct 27\nFinal project workshop (virtual)\n📖\n\n\n\n\n✍️\n\n\n10\nNov 1\nWelfare states in the OECD\n📖\n📺\n🖥️\nGetting started with Power BI\n📉\n\n\n\n\nNov 3\nU.S. exceptionalism\n📖\n\n🖥️\nLoading data\n📉\n\n\n\n11\nNov 8\nUnions and collective bargaining\n📖\n\n🖥️\nVisualize data\n📉\n\n\n\n\nNov 10\nVarieties of capitalism\n📖\n\n🖥️\nPower BI reports I\n📉\n\n\n\n12\nNov 15\nGlobalization\n📖\n\n🖥️\nPower BI reports II\n📉\n\n\n\n\nNov 17\nInequality\n📖\n\n🖥️\nPower BI dashboards\n📉\n🧮\n\n\n13\nNov 22\nFinal project workshop (virtual)\n\n\n\n\n\n\n\n\n\nNov 24\nNo class-Thanksgiving break\n\n\n\n\n\n✍️\n\n\n14\nNov 29\nThe populist backlash in the West\n📖\n\n🖥️\n\n\n\n\n\n\nDec 1\nThe rise of nationalism and socialism\n📖\n\n🖥️\n\n\n\n\n\n15\nDec 6\nClimate change & collective action\n📖\n\n🖥️\n\n\n\n\n\n\nDec 8\nExam 3 review\n\n\n🖥️\n\n\n📘✍️"
+    "text": "Week\nDate\nTopic\nReading\nVideo\nSlides\nSkill\nDataquest\nAssignment\n\n\n\n\n1\nAug 30\nCourse overview\n\n\n\nExplore MS 365 & Dataquest\n\n\n\n\n\nSep 1\nThe economy and society\n📖\n\n🖥️\nUnderstanding data\n📉\n\n\n\n2\nSep 6\nInstitutions and development\n📖\n\n🖥️\nUsing data\n📉\n\n\n\n\nSep 8\nModernization theory\n📖\n\n🖥️\nAnalyzing data\n📉\n\n\n\n3\nSep 13\nDemocratic backsliding\n📖\n📺\n🖥️\nImporting data\n📉\n\n\n\n\nSep 15\nThe resource curse\n📖\n📺\n🖥️\nOrganizing data\n📉\n🧮\n\n\n4\nSep 20\nWomen’s empowerment\n📖\n\n🖥️\n\n\n\n\n\n\nSep 22\nExam 1 review\n\n\n🖥️\n\n\n📘\n\n\n5\nSep 27\nProgrammatic politics vs. clientelism\n📖\n\n🖥️\nCleaning data I\n📉\n\n\n\n\nSep 29\nVote buying\n📖\n\n🖥️\nCleaning data II\n📉\n\n\n\n6\nOct 4\nEthnicity and public goods\n📖\n📺\n🖥️\nBar charts\n📉\n\n\n\n\nOct 6\nDemocracy and redistribution\n📖\n📺\n🖥️\nLine charts\n📉\n\n\n\n7\nOct 11\nWashington consensus reforms\n📖\n📺\n🖥️\nScatter plots\n📉\n\n\n\n\nOct 13\nThe gendered legacy of reform\n📖\n📺\n🖥️\nMaps\n\n🧮\n\n\n8\nOct 18\nPopulism and social policy\n📖\n\n🖥️\n\n\n\n\n\n\nOct 20\nExam 2 review\n\n\n🖥️\n\n\n📘\n\n\n9\nOct 25\nNo class-Fall break\n\n\n\n\n\n\n\n\n\nOct 27\nFinal project workshop (virtual)\n📖\n\n\nWriting with Zotero\n\n✍️\n\n\n10\nNov 1\nWelfare states in the OECD\n📖\n📺\n🖥️\nWrangling data in the Power Query Editor\n📉\n\n\n\n\nNov 3\nU.S. exceptionalism\n📖\n📺\n🖥️\nUpload data to Power BI\n📉\n\n\n\n11\nNov 8\nUnions and collective bargaining\n📖\n📺\n🖥️\nCreate column chart in Power BI\n📉\n\n\n\n\nNov 10\nVarieties of capitalism\n📖\n📺\n🖥️\nCreate line chart in Power BI\n📉\n\n\n\n12\nNov 15\nGlobalization\n📖\n📺\n🖥️\nCreate map in Power BI\n📉\n\n\n\n\nNov 17\nInequality\n📖\n📺\n🖥️\nCreate scatter plot in Power BI\n📉\n\n\n\n13\nNov 22\nFinal project workshop (virtual)\n\n\n\n\n\n✍️\n\n\n\nNov 24\nNo class-Thanksgiving break\n\n\n\n\n\n\n\n\n14\nNov 29\nThe populist backlash in the West\n📖\n\n🖥️\n\n\n\n\n\n\nDec 1\nThe rise of nationalism and socialism\n📖\n\n🖥️\n\n\n\n\n\n15\nDec 6\nClimate change and collective action\n📖\n\n🖥️\n\n\n\n\n\n\nDec 8\nExam 3 review\n\n\n🖥️\n\n\n📘✍️"
   },
   {
     "objectID": "instructor.html",
@@ -116,7 +165,7 @@
     "href": "instructor.html#office-hours",
     "title": "Instructor",
     "section": "Office hours",
-    "text": "Office hours\nProfessor Teitelbaum’s office hours are on Mondays from 3:00 p.m. to 5:00 p.m. Please sign up for a slot (or two) on my Calendly page. He is available to virtually on Zoom or in my office at 411 Monroe Hall (2115 G. ST NW)."
+    "text": "Office hours\nProfessor Teitelbaum’s office hours are on Mondays from 3:00 p.m. to 5:00 p.m. Please sign up for a slot (or two) on my Calendly page. He is available to virtually on Zoom or in his office at 411 Monroe Hall (2115 G. ST NW)."
   },
   {
     "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
@@ -124,6 +173,2183 @@
     "title": "PSC 2339--Fall Schedule",
     "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
     "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "project/project-assignment-1.html",
+    "href": "project/project-assignment-1.html",
+    "title": "Project Assignment 1",
+    "section": "",
+    "text": "The purpose of this assignment is to come up with a plan for your final project. The final project is going to involve creating a report in Microsoft Power BI. If you can find the link to the online Power BI app here. And if you are a Microsoft Windows user, you can download the desktop version for free here.\nFor the next few weeks you are going to work with me and your classmates to come up with a proposed plan for your report. You will first write an outline of your plan (this assignment) and then write a white paper that will flesh out the details.\nThe topic of your white paper and the Power BI report should be related to of the topics that we cover during the course (democracy and development, women’s empowerment, clientelism, the welfare state, etc.). So the first thing to do is to have a look at the syllabus and see what topic most appeals to you."
+  },
+  {
+    "objectID": "project/project-assignment-1.html#steps",
+    "href": "project/project-assignment-1.html#steps",
+    "title": "Project Assignment 1",
+    "section": "Steps",
+    "text": "Steps\n\nChoose a topic\nFind a dataset to work with\nGather sources relevant to your topic and generate a preliminary bibliography.\nWrite an outline for a white paper describing the need for and purpose of your Power BI report"
+  },
+  {
+    "objectID": "project/project-assignment-1.html#what-to-submit",
+    "href": "project/project-assignment-1.html#what-to-submit",
+    "title": "Project Assignment 1",
+    "section": "What to Submit",
+    "text": "What to Submit\nYou will submit a one-page outline along with a preliminary bibliography. Your outline will consist of the following parts:\n\nA 100 word abstract outlining the importance of your topic and the need for further analysis of it.\nA statement of the specific problem to be addressed by your research and analysis.\nBackground information regarding the problem that you have identified.\nThe proposed analysis, which should consist of two elements:\n\na description of the data you will analyze; and\na description the visualizations you plan to include.\n\n\nFor the dataset, be sure to identify one that is complete and includes both a cross-sectional as well as a time series component, e.g. data that spans across countries or regions and time.\nFor the visualizations, you should describe at least four: a bar chart, a line chart, a scatter plot and a map. You don’t have to do the visualizations yet, but be specific in terms of what your plan is for them.\nYour outline can be in the form of short paragraphs or bullet points."
+  },
+  {
+    "objectID": "project/project-assignment-2.html",
+    "href": "project/project-assignment-2.html",
+    "title": "Project Assignment 2",
+    "section": "",
+    "text": "For this part of the project, you are going to download the data that you discussed in your outline and wrangle it. “Wrangling” means cleaning the data and getting it into the proper format for analysis. For Power BI and other commonly used data analysis applications, the data need to be in long format so that each row contains values for one country or region per year and each column contains data for one variable. You also need to filter the data for the years that you want to use and select the variables that you want to work with. If you are working with more than one data set, then you have to merge the two data sets. I show you how to do all of this using data from the World Bank and V-Dem in this video."
+  },
+  {
+    "objectID": "project/project-assignment-2.html#steps",
+    "href": "project/project-assignment-2.html#steps",
+    "title": "Project Assignment 2",
+    "section": "Steps",
+    "text": "Steps\n\nDownload the data that you want to work with.\nOpen the file in Excel’s Power Query Editor and see what the data look like.\n\n\nAre the data in long format or will you need to reshape them?\nHow many years are there in the data and what will you need to filter out?\nWhich variables do you want to work with?\n\n\nIf you want to work with more than one dataset, you will need to merge the two datasets if you want to display variables from the two datasets in the same visualization (like a scatter plot).\nFollow the steps discussed in class to clean the data and prepare it for analysis.\n\n\n\n\n\n\n\nNote\n\n\n\nI recommend working with just a handful of variables for this assignment. You need at least two for the scatter plot. You can then choose whether you want to also display one or both of those in the other visualizations. If you have four visualizations in your report, then you should have a maximum of five variables. But just using two or three is also fine."
+  },
+  {
+    "objectID": "project/project-assignment-2.html#what-to-submit",
+    "href": "project/project-assignment-2.html#what-to-submit",
+    "title": "Project Assignment 2",
+    "section": "What to Submit",
+    "text": "What to Submit\nSubmit a report in the form of a white paper that tells your boss your plan for creating a Power BI report. The white paper should include the following elements:\n\nAn abstract (\\(\\approx\\) 150 words)\nProblem statement (\\(\\approx\\) 100 words)\nBackground (\\(\\approx\\) 250 words)\nSolution (\\(\\approx\\) 250 words)\nConclusion (\\(\\approx\\) 100 words)\nReference list (include at least five sources)\n\nIn the solution section, include a brief description of each variable included in your dataset. Then talk in detail about the visualizations you will build using these variables. The default number of visualizations is four: a line chart; a bar chart; a scatter plot and a map. What will be on the x and y axis of each visualization? How many countries or regions will you include in each? You will probably want to include a selection of countries for the bar and line charts and all of the countries for the map. Please take this opportunity to also note any problems that you had in cleaning the data and any unresolved questions about your data. It is better to admit your limitations and try to find a solution than to simply turn something in that is not going to work.\nAlong with your report, please be sure to include a .csv or Excel file with your data. I want to make sure that you are ready to produce the visualizations in Power BI. You may even want to take some time and see that the data re ready for that as well.\nDon’t overdo it. The final length of your white paper should be approximately 4-5 pages including references. No visualizations of the data are required at this time, however you are welcome to include any preliminary visualizations you have done in an appendix if you would like some feedback on them."
+  },
+  {
+    "objectID": "project/project-assignment-3.html",
+    "href": "project/project-assignment-3.html",
+    "title": "Project Assignment 3",
+    "section": "",
+    "text": "Now that you have your data in the right format, it is time to make your Power BI report. For step by step instructions on how to do this, see the series of YouTube videos in this playlist. Your report should include at least four visualizations. The default selection would include a column chart, a line chart, a map and a scatter plot but there can be some flexibility in terms of the exact composition. Ideally, the visualizations should interact with one another, meaning that when you click on a country represented on the map the data for that country is reflected in the line chart, bar chart, etc."
+  },
+  {
+    "objectID": "project/project-assignment-3.html#steps",
+    "href": "project/project-assignment-3.html#steps",
+    "title": "Project Assignment 3",
+    "section": "Steps",
+    "text": "Steps\n\nCreate a Power BI report following the steps outlined in the videos linked above.\nUsing a screen recording software like Vimeo, submit a video summarizing the main insights derived from your report. Alternatively, you can submit a two to three page written summary covering the same material. Here are some things to talk about in your video:\n\n\nWhat are some of the country-level trends in the data? Did any countries stand out in terms of dramatic upward or downward trends?\nHow do countries compare to one another in terms of average values of your variables of interst? Did any countries stand out or surprise you in terms of average levels?\nWhat interesting relationships did you find between your key variable of interest and another variable (or variables)?\nWhat connections did you make to things that we read or discussed regarding these variables in class or that you had read during the course of your research on this topic?\n\n\nSign up for a free trial of Power BI Pro so that you can share the link to your app. You can share the link in the text field for the assignment submission.\nIf this method of sharing your report fails, you can try exporting your app as a .pbix file or (as a last resort) a .pdf. You should really only use the .pdf option if you are submitting a video, though, as I would like to see your report in operation."
+  },
+  {
+    "objectID": "project/project-assignment-3.html#what-to-submit",
+    "href": "project/project-assignment-3.html#what-to-submit",
+    "title": "Project Assignment 3",
+    "section": "What to Submit",
+    "text": "What to Submit\n\nYour video or written summary of your insights.\nA link to your video.\n\nAs always, if you have any questions about anything, please ask. I hope you enjoy the Power BI assignment!"
+  },
+  {
+    "objectID": "project/project-datasets.html",
+    "href": "project/project-datasets.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "ILOSTAT is the statistical database of the International Labour Organisation. It has data pertaining to labor, working conditions, industrial relations, poverty and inequality.\nGoogle Public Data Explorer contains information about dozens of databases related to governance and the economy. You cannot download the raw data from Google, but you can use the site to visualize the data and then follow the link to the original source.\nOECD DATA provides data related to the performance of high income countries.\nOur World in Data is a good general resource for political economy data. The site is centered around blog posts but you can also search for a topic, view a visualization related to that topic and then download the data used to create it.\nStatista is a good place to look for data on more niche topics.\nUNCTADstat is the United Nations Conference on Trade and Development statistical database. It provides harmonized data on a range of topics related to economic performance, trade and statistics.\nThe UN Human Development Reports include a number of important indicators related to human development, gender and sustainable development goals (SDGs).\nVarieties of Democracy (V-DEM) provides original measures of the quality of democracy for every country dating back to the 18th century.\nWorld Bank Development Indicators (WDI) is the primary World Bank database for development data from officially-recognized international sources.\nThe World Bank DataBank provides access to dozens of additional World Bank databases on topics such as regional development, governance, education, gender and the environment.\n\nFor information on more specific resources available, see this page on the Gelman Library website."
+  },
+  {
+    "objectID": "slides/lecture-1.html#polanyis-obejctives",
+    "href": "slides/lecture-1.html#polanyis-obejctives",
+    "title": "Lecture 1",
+    "section": "Polanyi’s Obejctives",
+    "text": "Polanyi’s Obejctives\n\nExplain rise of fascism, political instability and war\nAdvance an argument about negative effects of economic liberalism\nProvide an alternative vision of the economy’s place in society\nDefend market regulation as not inherently “leftist”\n\n\nKey Arguments Self-regulating market Birth of liberalism Double movement"
+  },
+  {
+    "objectID": "slides/lecture-1.html#the-invisible-hand",
+    "href": "slides/lecture-1.html#the-invisible-hand",
+    "title": "Lecture 1",
+    "section": "The “Invisible Hand”",
+    "text": "The “Invisible Hand”\n\n19th century economic liberalism\n\nRicardo/Smith\n\nAn economy directed by market prices and nothing but market prices\nPolanyi calls it a “dangerous fantasy”\nTremendous amount of bureaucracy/governance required to maintain free markets"
+  },
+  {
+    "objectID": "slides/lecture-1.html#state-of-nature-i",
+    "href": "slides/lecture-1.html#state-of-nature-i",
+    "title": "Lecture 1",
+    "section": "State of Nature I",
+    "text": "State of Nature I\n\nFor Smith, our nature is to “truck, barter and trade”\nFor Polanyi, we are communal by nature\nMarkets have always played some role in society but not the dominant role\nImportance of ethnography\n\nEvidence-based approach\nNot just a rhetorical device"
+  },
+  {
+    "objectID": "slides/lecture-1.html#state-of-nature-ii",
+    "href": "slides/lecture-1.html#state-of-nature-ii",
+    "title": "Lecture 1",
+    "section": "State of Nature II",
+    "text": "State of Nature II\n\nTrobriand Islanders (Papua New Guinea)\nPeople motivated by status more than money\n\nMoney is a means to and end\n\nMoney not that relevant for distribution\n\nReciprocity\nRedistribution\nHouseholding"
+  },
+  {
+    "objectID": "slides/lecture-1.html#discussion",
+    "href": "slides/lecture-1.html#discussion",
+    "title": "Lecture 1",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat is your view of the state of nature?\nIs it more similar to Karl Polanyi’s or Adam Smith’s?"
+  },
+  {
+    "objectID": "slides/lecture-1.html#where-did-liberalism-come-from",
+    "href": "slides/lecture-1.html#where-did-liberalism-come-from",
+    "title": "Lecture 1",
+    "section": "Where Did Liberalism Come From?",
+    "text": "Where Did Liberalism Come From?\n\nDoes not date back to Smith or Ricardo\nThese thinkers were ahead of their time\nEmerged out of class politics following industrial revolution\n\n\nLiberalism is a relatively recent ideology/practice"
+  },
+  {
+    "objectID": "slides/lecture-1.html#elements-of-liberalism",
+    "href": "slides/lecture-1.html#elements-of-liberalism",
+    "title": "Lecture 1",
+    "section": "Elements of Liberalism",
+    "text": "Elements of Liberalism\n\nUnfettered labor market\n\nCheap labor for industry\n\nGold standard\n\nFacilitated trade\nKept prices in check\n\nFree trade\n\nIndustrialists/traders wanted to access raw materials\nFacilitated by the gold standard\n\n\n\nLiberalism was dopted to suit needs of industry and instability in the international economy Needs: price stability, cheap labor, raw materials"
+  },
+  {
+    "objectID": "slides/lecture-1.html#the-gold-standard-1879-1973",
+    "href": "slides/lecture-1.html#the-gold-standard-1879-1973",
+    "title": "Lecture 1",
+    "section": "The Gold Standard (1879-1973)",
+    "text": "The Gold Standard (1879-1973)\n\nPegging the value of the dollar to gold\nProblems\n\nDeflationary: could not print money in excess of gold supply\nLed to dramatic boom-bust cycles\n\nReforms\n\n1931: Roosevelt ends gold standard domestically\n1971: Nixon ends Bretton Woods\n\n\n\nThe gold standard was problematic because it prevented the government from undertaking monetary policy to counteract economic downturns"
+  },
+  {
+    "objectID": "slides/lecture-1.html#th-century-panics",
+    "href": "slides/lecture-1.html#th-century-panics",
+    "title": "Lecture 1",
+    "section": "19th Century Panics",
+    "text": "19th Century Panics"
+  },
+  {
+    "objectID": "slides/lecture-1.html#discussion-1",
+    "href": "slides/lecture-1.html#discussion-1",
+    "title": "Lecture 1",
+    "section": "Discussion",
+    "text": "Discussion\n\nPolanyi argues that economic liberalism generates political instability\nLooking at the graph, do you see the connection?\nCan you also find evidence challenging Polanyi’s view?"
+  },
+  {
+    "objectID": "slides/lecture-1.html#small-groups",
+    "href": "slides/lecture-1.html#small-groups",
+    "title": "Lecture 1",
+    "section": "Small Groups",
+    "text": "Small Groups\n\nReview the concept of the double movement as it is presented in Chapter 11 of The Great Transformation\nWhat does Polanyi mean by a “movement” and a “counter-movement”?\nWho are the actors involved?\n\nWho is affected by this “movement”\nWhat does the “counter-movement” entail?"
+  },
+  {
+    "objectID": "slides/lecture-1.html#description-of-double-movement",
+    "href": "slides/lecture-1.html#description-of-double-movement",
+    "title": "Lecture 1",
+    "section": "Description of Double Movement",
+    "text": "Description of Double Movement\n\nMovement: expansion of liberalism and self-regulating markets\nCounter-movement: reaction of society against dislocation caused by markets\nNew regulations\n\nPurpose is to shelter land, labor and the money supply against “devastating effects” of policies used to sustain self-regulating markets\nImportance of class dynamics: winners and losers"
+  },
+  {
+    "objectID": "slides/lecture-1.html#who-are-the-opponents-of-liberalism",
+    "href": "slides/lecture-1.html#who-are-the-opponents-of-liberalism",
+    "title": "Lecture 1",
+    "section": "Who are the Opponents of Liberalism?",
+    "text": "Who are the Opponents of Liberalism?\n\nNot a unified, hegemonic left or an anti-liberal ideology\nResponses are rather piecemeal\n\nRegulation arises in many areas\nAcross many countries\nIn response to similar problems\n\nRegulation is a result of liberalism’s failure, not its cause"
+  },
+  {
+    "objectID": "slides/lecture-1.html#small-groups-1",
+    "href": "slides/lecture-1.html#small-groups-1",
+    "title": "Lecture 1",
+    "section": "Small Groups",
+    "text": "Small Groups\n\nCan Polanyi’s theory of the “double movement” be applied to contemporary politics?\nProvide at least two concrete examples to support your view\n\nBe sure to identify\n\nThe “movement”\nThe “countermovement”\nThe actors involved, e.g. winners and losers\n\n\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#what-is-the-oecd",
+    "href": "slides/lecture-10.1.html#what-is-the-oecd",
+    "title": "Lecture 10.1",
+    "section": "What is the OECD?",
+    "text": "What is the OECD?\n\n\n\nSource: Wikipedia\n\n\n\n\nCurrently 38 members\n\nMost recent: Costa Rica\n\nClub of developed countries with stable democracy\n\n80% of world’s trade and investment\ndiscuss and promotes policies that enhance governance and quality of life\n\nAlso includes some high middle-income countries like Chile, Colombia and Mexico"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#key-questions",
+    "href": "slides/lecture-10.1.html#key-questions",
+    "title": "Lecture 10.1",
+    "section": "Key Questions",
+    "text": "Key Questions\n\nWhat is the welfare state and how does it vary?\n\n“Three worlds” of welfare capitalism\nReasons for three worlds\n\nGender and the welfare state\n\nHow do welfare regimes affect women?\nWhy are some more supportive than others?\n\nGlobalization and the three worlds\n\nWill they endure?\n\nHow Do We Get to Denmark?"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#definitions-and-concepts",
+    "href": "slides/lecture-10.1.html#definitions-and-concepts",
+    "title": "Lecture 10.1",
+    "section": "Definitions and Concepts",
+    "text": "Definitions and Concepts\n\nWelfare state–system of public benefits and services that address human welfare needs\n\nCash benefits\nServices\n\nSocial rights—rights to the provision of basic services like education, health care, and a basic standard of living\nDe-commodification—state in which a person is not dependent on selling her labor power in the market to ensure her survival\nUniversalism —the degree to which everyone has an equal right to publicly provided benefits and services"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#welfare-state-regimes-three-worlds",
+    "href": "slides/lecture-10.1.html#welfare-state-regimes-three-worlds",
+    "title": "Lecture 10.1",
+    "section": "Welfare State Regimes (“Three Worlds”)",
+    "text": "Welfare State Regimes (“Three Worlds”)\n\nLiberal—emphasize means tested social assistance\n\nAnglo-American countries\nExamples: U.S., UK, Canada, Australia…\n\nCorporatist—ranked system of social insurance, emphasis on the family, narrow provisioning\n\nContinental European countries\nExamples: Austria, Germany, Switzerland\n\nSocial Democratic—universalistic, emphasis on full employment and broad provisioning (Nordic countries)\n\nExamples: Denmark, Norway, Sweden\n\n\n\nWould be great to have a visualization of the three worlds"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#social-spending-in-oecd",
+    "href": "slides/lecture-10.1.html#social-spending-in-oecd",
+    "title": "Lecture 10.1",
+    "section": "Social Spending in OECD",
+    "text": "Social Spending in OECD\n\nOECD Social Expenditure Update, 2020"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#social-spending-by-category",
+    "href": "slides/lecture-10.1.html#social-spending-by-category",
+    "title": "Lecture 10.1",
+    "section": "Social Spending By Category",
+    "text": "Social Spending By Category\n\nOECD Social Expenditure Update, 2020"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#means-tested-benefits",
+    "href": "slides/lecture-10.1.html#means-tested-benefits",
+    "title": "Lecture 10.1",
+    "section": "Means Tested Benefits",
+    "text": "Means Tested Benefits\n\n\n\nOECD Social Expenditure Update 2014\n\n\n\nWould be nice to update this one. Could I do it myself?"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#pillars-of-social-democracy",
+    "href": "slides/lecture-10.1.html#pillars-of-social-democracy",
+    "title": "Lecture 10.1",
+    "section": "Pillars of Social Democracy",
+    "text": "Pillars of Social Democracy\n\nSwedish Prime Minister Stefan Löfven video\nThree pillars of the Nordic model\n\nFull Employment\nUniversal and Generous Welfare System\nOrganized Labor Market\n\nThink about\n\nHow each pillar is important\nHow they work together to support the system"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#origins-of-three-worlds-of-welfare-capitalism",
+    "href": "slides/lecture-10.1.html#origins-of-three-worlds-of-welfare-capitalism",
+    "title": "Lecture 10.1",
+    "section": "Origins of Three Worlds of Welfare Capitalism",
+    "text": "Origins of Three Worlds of Welfare Capitalism\n\nWhere do the three worlds come from?\nEsping-Andersen (pp. 146-148)\n\nLabor unions and left parties only part of the story\nEmphasizes “red-green coalitions”\nOther factors\n\nethnicity\nreligion"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#discussion",
+    "href": "slides/lecture-10.1.html#discussion",
+    "title": "Lecture 10.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nOECD data\nExplore various categories with a neighbor\nHow do spending patterns relate to “three worlds” concept?"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#gender-and-the-three-worlds",
+    "href": "slides/lecture-10.1.html#gender-and-the-three-worlds",
+    "title": "Lecture 10.1",
+    "section": "Gender and the Three Worlds",
+    "text": "Gender and the Three Worlds\n\nLMEs (Anglo-American countries): free market approach\nCorporatist (Germany, Austria, Italy, etc): traditional, male breadwinner approach (historically, but recently more like Scandinavia)\nNordic SMEs (Scandinavia): transform gender relations; dual wage-earner approach"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#scandinavian-policies",
+    "href": "slides/lecture-10.1.html#scandinavian-policies",
+    "title": "Lecture 10.1",
+    "section": "Scandinavian Policies",
+    "text": "Scandinavian Policies\n\nUniversal public day care\nAltered workday for parents\nIncreased parental leave\n\nMen equally entitled\nNorway example (46 weeks)\n\nMen and women both get 15 weeks after birth of child\nWomen get 3 weeks before birth\nThen they can divide up an additional 16 weeks between them\nCan stretch total out to 56 weeks at 80% pay\n\n\nRationale: equality depends on changing men"
+  },
+  {
+    "objectID": "slides/lecture-10.1.html#discussion-1",
+    "href": "slides/lecture-10.1.html#discussion-1",
+    "title": "Lecture 10.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nRead this study, about family-friendly policies among wealth countries.\nCountries without any requirement for paid maternity leave: Papua New Guinea, Swaziland, Lesotho, Liberia, the United States and some island nations in the South Pacific\nHow do we get to Denmark?\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#three-theories",
+    "href": "slides/lecture-10.2.html#three-theories",
+    "title": "Lecture 10.2",
+    "section": "Three Theories",
+    "text": "Three Theories\n\nRace to the bottom hypothesis\n\nGlobalization induces states to drastically reduce publicly provided benefits and services\n\nEmbedded liberalism hypothesis\n\nGlobalization induces states to spend more on benefits and services to cushion workers from increased labor market risks\n\nConvergence\n\nGlobalization forces states to provide similar levels and types of benefits and services"
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#education-spending-in-three-worlds",
+    "href": "slides/lecture-10.2.html#education-spending-in-three-worlds",
+    "title": "Lecture 10.2",
+    "section": "Education Spending in Three Worlds",
+    "text": "Education Spending in Three Worlds\n\nNotes: Data are from World Bank Development Indicators. Social democratic countries include Denmark, Finland, Netherlands, Norway, and Sweden; Corporatist countries include Austria, France, Germany and Italy; Liberal countries include Australia, Canada, Ireland, Japan, New Zealand, the UK, and the U.S."
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#health-spending-in-three-worlds",
+    "href": "slides/lecture-10.2.html#health-spending-in-three-worlds",
+    "title": "Lecture 10.2",
+    "section": "Health Spending in Three Worlds",
+    "text": "Health Spending in Three Worlds\n\nNotes: Data are from the World Bank Development Indicators. Social democratic countries include Denmark, Finland, Netherlands, Norway, and Sweden; Corporatist countries include Austria, France, Germany and Italy; Liberal countreis include Australia, Canada, Ireland, Japan, New Zealand, the UK, and the U.S."
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#reasons-for-persistence",
+    "href": "slides/lecture-10.2.html#reasons-for-persistence",
+    "title": "Lecture 10.2",
+    "section": "Reasons for Persistence",
+    "text": "Reasons for Persistence\n\nTrade openness—induces countries to spend more to cushion workers (embedded liberalism)\nPartisan politics—Christian democratic and social Democratic parties favor welfare state (but different kinds)\nElectoral politics (voters like programs)\nBureaucratic inertia (vested interests)\nEconomic coordination (next week)"
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#effects-of-some-intl-and-domestic-factors",
+    "href": "slides/lecture-10.2.html#effects-of-some-intl-and-domestic-factors",
+    "title": "Lecture 10.2",
+    "section": "Effects of Some Int’l and Domestic Factors",
+    "text": "Effects of Some Int’l and Domestic Factors\n\nSource: Swank, “Globalization, the Welfare State and Inequality”"
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#barriers-to-a-european-welfare-state-in-u.s.-alesina-et.-al.",
+    "href": "slides/lecture-10.2.html#barriers-to-a-european-welfare-state-in-u.s.-alesina-et.-al.",
+    "title": "Lecture 10.2",
+    "section": "Barriers to a European Welfare State in U.S. (Alesina et. al.)",
+    "text": "Barriers to a European Welfare State in U.S. (Alesina et. al.)\n\nElectoral systems\nFederalism\nCourts\nEthnic diversity\nWhat is the strongest factor? Missing factors?"
+  },
+  {
+    "objectID": "slides/lecture-10.2.html#should-we-go-to-denmark",
+    "href": "slides/lecture-10.2.html#should-we-go-to-denmark",
+    "title": "Lecture 10.2",
+    "section": "Should We Go to Denmark?",
+    "text": "Should We Go to Denmark?\n\nVideo\nWhat is your vision of the “American Dream”?\nCan “democratic socialism” work in the United States?\n\nIs it the American dream “for real”?\nIs it affordable?\n\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#what-is-a-labor-trade-union",
+    "href": "slides/lecture-11.1.html#what-is-a-labor-trade-union",
+    "title": "Lecture 11.1",
+    "section": "What is a Labor (Trade) Union?",
+    "text": "What is a Labor (Trade) Union?\n\nAn organization of workers who coordinate to improve their terms and conditions of employment\nAreas of coordination\n\nWages and benefits\nWorking conditions\nSafety standards\nRules governing termination and promotion\n\nCollective bargaining\nStrategic withdrawal of labor (strikes)"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#trade-union-presence",
+    "href": "slides/lecture-11.1.html#trade-union-presence",
+    "title": "Lecture 11.1",
+    "section": "Trade Union Presence",
+    "text": "Trade Union Presence\n\nSource: ILO, retrieved from Wikimedia Commons"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#workplace-democracy",
+    "href": "slides/lecture-11.1.html#workplace-democracy",
+    "title": "Lecture 11.1",
+    "section": "Workplace Democracy",
+    "text": "Workplace Democracy\n\nWorkers’ councils\n\nCodetermination\n\nRepresentation on company boards\n\nParity of ownership\n\nWorker ownership of means of production\n\ne.g. socialism\n\nMuncipal socialism\nIndustrial unionism (Eugene Debbs)"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#trade-union-philosophies",
+    "href": "slides/lecture-11.1.html#trade-union-philosophies",
+    "title": "Lecture 11.1",
+    "section": "Trade Union Philosophies",
+    "text": "Trade Union Philosophies\n\nSelect one leader\nHow did the leader you selected view unionism?\n\nWhat was its broader purposes?\nWhat goals would it achieve?\nDid the bio change your understanding of unions?"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#a-paradox",
+    "href": "slides/lecture-11.1.html#a-paradox",
+    "title": "Lecture 11.1",
+    "section": "A Paradox",
+    "text": "A Paradox\n\n\n\nUnions bring many benefits\n71% of Americans approve of unions (Gallop)\nBut only 10% belong"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#why-is-union-organizing-so-hard",
+    "href": "slides/lecture-11.1.html#why-is-union-organizing-so-hard",
+    "title": "Lecture 11.1",
+    "section": "Why is Union Organizing so Hard?",
+    "text": "Why is Union Organizing so Hard?\n\n\n\nCase 1: Starbucks\nCase 2: Amazon\n\n\n\nWhat are some of the obstacles organizers face?\nWhy are many workers reluctant to join?"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#rana-plaza-collapse",
+    "href": "slides/lecture-11.1.html#rana-plaza-collapse",
+    "title": "Lecture 11.1",
+    "section": "Rana Plaza Collapse",
+    "text": "Rana Plaza Collapse"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#global-framework-agreements",
+    "href": "slides/lecture-11.1.html#global-framework-agreements",
+    "title": "Lecture 11.1",
+    "section": "Global Framework Agreements",
+    "text": "Global Framework Agreements\n\nAlliance for Bangladesh Worker Safety\n\nMostly American companies\nNot legally binding\nExpired after five years, not renewed\n\nAccord on Fire and Building Safety in Bangladesh\n\nMostly European companies\nLegally binding\nRenewed after 5 years but undermined by garment manufacturers in Bangladesh"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#global-apparel-pricing",
+    "href": "slides/lecture-11.1.html#global-apparel-pricing",
+    "title": "Lecture 11.1",
+    "section": "Global Apparel Pricing",
+    "text": "Global Apparel Pricing"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#bangladesh-pricing",
+    "href": "slides/lecture-11.1.html#bangladesh-pricing",
+    "title": "Lecture 11.1",
+    "section": "Bangladesh Pricing",
+    "text": "Bangladesh Pricing"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#pricing-and-labor-rights",
+    "href": "slides/lecture-11.1.html#pricing-and-labor-rights",
+    "title": "Lecture 11.1",
+    "section": "Pricing and Labor Rights",
+    "text": "Pricing and Labor Rights"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#democracy",
+    "href": "slides/lecture-11.1.html#democracy",
+    "title": "Lecture 11.1",
+    "section": "Democracy",
+    "text": "Democracy\n\nTrade unions in developing countries male-dominated\nTied to political parties\nINGOs undemocratic, lack connection to workers"
+  },
+  {
+    "objectID": "slides/lecture-11.1.html#discussion",
+    "href": "slides/lecture-11.1.html#discussion",
+    "title": "Lecture 11.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nHow to improve union democracy?\nHow to get workers more excited about organizing?\nAlternatives to traditional labor unions?\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#coordinated-capitalism",
+    "href": "slides/lecture-11.2.html#coordinated-capitalism",
+    "title": "Lecture 11.2",
+    "section": "Coordinated Capitalism",
+    "text": "Coordinated Capitalism\n\nHow do “micro-agents” of capitalist systems structure their interactions?\n\nEmployers\nUnions\nBanks\n\nSome countries are more coordinated than others\n\nNordic and continental European countries = more coordinated\nAnglo-American countries less so\n\nVarieties of capitalism mainly refers to this variation in coordination"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#areas-of-coordination",
+    "href": "slides/lecture-11.2.html#areas-of-coordination",
+    "title": "Lecture 11.2",
+    "section": "Areas of Coordination",
+    "text": "Areas of Coordination\n\nIndustrial relations\n\nCoordinated wage setting\n\nEducation and training\n\nVocational training\nCompany involvement in public education\n\nCompany financing\n\nRole of banks versus stock markets\n\nIntercompany relations\n\nTechnology sharing\nStandard setting\nCompetition policy"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#labor-market-coordination",
+    "href": "slides/lecture-11.2.html#labor-market-coordination",
+    "title": "Lecture 11.2",
+    "section": "Labor Market Coordination",
+    "text": "Labor Market Coordination\n\nBasis for generous welfare states\nKey actors\n\nEmployers’ federations\nUnions\n\nThree ‘levels’ of interest representation\n\nHighly centralized (peak associations)\nModerately centralized (industry-level agreements)\nDecentralized (enterprise-level agreements)"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#levels-of-bargaining-centralization",
+    "href": "slides/lecture-11.2.html#levels-of-bargaining-centralization",
+    "title": "Lecture 11.2",
+    "section": "Levels of Bargaining Centralization",
+    "text": "Levels of Bargaining Centralization\n\nNotes: Hypothetical bargaining scenario with two peak associations, two industries and two companies per industry."
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#highly-centralized",
+    "href": "slides/lecture-11.2.html#highly-centralized",
+    "title": "Lecture 11.2",
+    "section": "Highly Centralized",
+    "text": "Highly Centralized\n\nNotes: In this example, the national union (LO) for blue collar workers bargains with the national employer’s federation (Confederation of Swedish Enterprise) and the agreement is binding for all industries and enterprises. This system was common in Nordic countries before the 1990s but no longer exists."
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#moderately-centralized",
+    "href": "slides/lecture-11.2.html#moderately-centralized",
+    "title": "Lecture 11.2",
+    "section": "Moderately Centralized",
+    "text": "Moderately Centralized\n\nNotes: In this example, the German union for mining, chemical and engineering sector workers negotiates an agreement with employers from the chemicals sector while the metalworkers union negotiates an agreement for workers in the auto sector. This system is characteristic of Germany and Nordic countries today."
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#decentralized",
+    "href": "slides/lecture-11.2.html#decentralized",
+    "title": "Lecture 11.2",
+    "section": "Decentralized",
+    "text": "Decentralized\n\nNotes: In this example, the United Steelworkers and United Autoworkers negotiate agreements for their workers separately for each company. There is no coordination among firms and unions at the sectoral level. This enterprise-level bargaining is common in the U.S. and other liberal market economies."
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#macroeconomic-effects-of-coordination",
+    "href": "slides/lecture-11.2.html#macroeconomic-effects-of-coordination",
+    "title": "Lecture 11.2",
+    "section": "Macroeconomic Effects of Coordination",
+    "text": "Macroeconomic Effects of Coordination\n\nLowers competition\n\nLabor market\nDomestic product markets\n\nIncreases financial stability\n\nBanks\n‘Patient capital’"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#implications",
+    "href": "slides/lecture-11.2.html#implications",
+    "title": "Lecture 11.2",
+    "section": "Implications",
+    "text": "Implications\n\nMakes long-term planning and investment easier\nResult \\(\\Rightarrow\\) more investment in human capital/skills\nInstitutional comparative advantage argument\n\nDiversified Quality Products (coordinated economies)\n\nRequire skilled labor and long-term planning\n\n“Radical innovation” (liberal economies)\n\nRequire more creativity and short-term investments"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#theories-of-emergence",
+    "href": "slides/lecture-11.2.html#theories-of-emergence",
+    "title": "Lecture 11.2",
+    "section": "Theories of Emergence",
+    "text": "Theories of Emergence\n\nPower resources: mobilization of labor at a crucial point in history pressured employers into collective bargaining (Korpi, Stephens)\nParty systems: strength of left political parties predicts degree of coordination (Martin and Swank)\nVarieties of capitalism: coordinated capitalism exists primarily because it helps employers to be more competitive (Hall and Soskice)\nHistorical institutionalism: coordination emerges out of pre-capitalist institutions like guilds that provided higher levels of vocational training and a more skilled workforce (Thelen)"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#social-implications",
+    "href": "slides/lecture-11.2.html#social-implications",
+    "title": "Lecture 11.2",
+    "section": "Social Implications",
+    "text": "Social Implications\n\nCoordination has broader social effects\nUnion density \\(\\Rightarrow\\) stronger left parties\nStrength of left parties affects social policy\n\nMore redistributive policies\n‘Decommodification’ of labor\nHigher levels of public employment\n\nWage dispersion is lower\n\nLowers inequality\nLarge middle class, supportive of generous welfare policies\n\nBut also allows for a high degree of economic openness\n\nNordic countries have high trade/GDP ratios"
+  },
+  {
+    "objectID": "slides/lecture-11.2.html#trends-in-coordination",
+    "href": "slides/lecture-11.2.html#trends-in-coordination",
+    "title": "Lecture 11.2",
+    "section": "Trends in Coordination",
+    "text": "Trends in Coordination\n\nSource: Thelen, Varieties of Liberalization"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#globalization",
+    "href": "slides/lecture-12.1.html#globalization",
+    "title": "Lecture 12.1",
+    "section": "Globalization",
+    "text": "Globalization\n\nAt the broadest level, globalization is the increasing integration of people, cultures and institutions\nIMF’s four aspects of globalization: trade; investment; migration; knowledge\nIn economics, globalization typically refers to increasing trade and investment"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#benefits-of-globalization",
+    "href": "slides/lecture-12.1.html#benefits-of-globalization",
+    "title": "Lecture 12.1",
+    "section": "Benefits of Globalization",
+    "text": "Benefits of Globalization\n\nIncreased capital flows\nSharing of knowledge & technology\nLower prices\nCultural exchange\nNew economic opportunities\nOthers?"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#challenges-of-globalization",
+    "href": "slides/lecture-12.1.html#challenges-of-globalization",
+    "title": "Lecture 12.1",
+    "section": "Challenges of Globalization",
+    "text": "Challenges of Globalization\n\nExploitation\nWeak regulation\nHigh start-up/investment costs\nLocalized job loss/displacement\nImmigration\nOthers?"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#theory-of-comparative-advantage",
+    "href": "slides/lecture-12.1.html#theory-of-comparative-advantage",
+    "title": "Lecture 12.1",
+    "section": "Theory of Comparative Advantage",
+    "text": "Theory of Comparative Advantage\n\nComparative advantage: the ability of a country to produce something at a lower opportunity cost relative to other countries (Ricardo)\nFor example, low-income countries have a comparative advantage in labor-intensive goods, high-income countries have a comparative advantage in high-skill and technology-intensive sectors\nCapital and labor will naturally reallocate based on logic of comparative advantage"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#the-china-shock",
+    "href": "slides/lecture-12.1.html#the-china-shock",
+    "title": "Lecture 12.1",
+    "section": "The China Shock",
+    "text": "The China Shock\n\nIs the theory of comparative advantage true?\nWill capital and labor reallocate from low-skill to high-skill sectors?\nOr is localized job loss more enduring?"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#autor-et.-al.",
+    "href": "slides/lecture-12.1.html#autor-et.-al.",
+    "title": "Lecture 12.1",
+    "section": "Autor et. al. ",
+    "text": "Autor et. al. \n\nHow to read an econ paper\nHow to read a regression table\nInterpreting results\nWhat are the main conclusions? Do they ring true to you?"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#detour",
+    "href": "slides/lecture-12.1.html#detour",
+    "title": "Lecture 12.1",
+    "section": "Detour",
+    "text": "Detour\n\nFRED St. Louis\nUpdated mfg data"
+  },
+  {
+    "objectID": "slides/lecture-12.1.html#updating-graphs",
+    "href": "slides/lecture-12.1.html#updating-graphs",
+    "title": "Lecture 12.1",
+    "section": "Updating Graphs",
+    "text": "Updating Graphs\n\nForm new groups\nSelect one graph from WB\nUpdate it\nDiscuss: what has changed?\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#illustrative-statistics-from-stiglitz",
+    "href": "slides/lecture-12.2.html#illustrative-statistics-from-stiglitz",
+    "title": "Lecture 12.2",
+    "section": "Illustrative statistics from Stiglitz",
+    "text": "Illustrative statistics from Stiglitz\n\n20% of wage earners earn as much as bottom 80%\nTop 1% earn in a week what bottom 20% earns in a year\nTop .1% earn in a day what bottom 90% earns in a year\nWalton family controls as much wealth as is owned by bottom 30% of society (~$238 billion)"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#common-inequality-measures",
+    "href": "slides/lecture-12.2.html#common-inequality-measures",
+    "title": "Lecture 12.2",
+    "section": "Common Inequality Measures",
+    "text": "Common Inequality Measures\n\nIncome/wealth shares -What share a given subpopulation accounts for\nRatios\n\n20/20 ratio (highest 20/lowest 20)\nPalma ratio (highest 10/lowest 40)\n90/10 ratio (lowest 90/highest 10)\n\nGini coefficient\n\nBased on the “Lorenz” curve\nVaries from 0 to 1\n\nOthers\n\ne.g. Thiel, Hoover"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#lorenze-curve-and-gini-coefficient",
+    "href": "slides/lecture-12.2.html#lorenze-curve-and-gini-coefficient",
+    "title": "Lecture 12.2",
+    "section": "Lorenze Curve and Gini Coefficient",
+    "text": "Lorenze Curve and Gini Coefficient\n\n\n\nGini coefficient is A/(A+B)\nVaries from 0 (perfect equality) and 1 (perfect inequality)"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#income-vs.-wealth-inequality",
+    "href": "slides/lecture-12.2.html#income-vs.-wealth-inequality",
+    "title": "Lecture 12.2",
+    "section": "Income vs. Wealth Inequality",
+    "text": "Income vs. Wealth Inequality\n\nIncome: what people earn from work and returns from investments like stocks, bonds and investment properties\nWealth: value of everything a person or family owns minus any debts\n\nNet worth: marketable assets minus debts\nFinancial wealth: non-home wealth"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#bottom-90-vs.-top-10-wealth-shares-u.s.",
+    "href": "slides/lecture-12.2.html#bottom-90-vs.-top-10-wealth-shares-u.s.",
+    "title": "Lecture 12.2",
+    "section": "Bottom 90% vs. Top 10% Wealth Shares (U.S.)",
+    "text": "Bottom 90% vs. Top 10% Wealth Shares (U.S.)"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#the-problem-of-the-1",
+    "href": "slides/lecture-12.2.html#the-problem-of-the-1",
+    "title": "Lecture 12.2",
+    "section": "The Problem of the 1%",
+    "text": "The Problem of the 1%"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#decomposing-the-1",
+    "href": "slides/lecture-12.2.html#decomposing-the-1",
+    "title": "Lecture 12.2",
+    "section": "Decomposing the 1%",
+    "text": "Decomposing the 1%\n\n\n\n\n\n\nTop 1% as a whole see increased wealth shares of about 15% from 1975 to now, while top .5% doubles its wealth share; .1% and .01% tripple their wealth shares."
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#wealth-shares-in-france",
+    "href": "slides/lecture-12.2.html#wealth-shares-in-france",
+    "title": "Lecture 12.2",
+    "section": "Wealth Shares in France",
+    "text": "Wealth Shares in France"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#united-states-gini-coefficient",
+    "href": "slides/lecture-12.2.html#united-states-gini-coefficient",
+    "title": "Lecture 12.2",
+    "section": "United States Gini Coefficient",
+    "text": "United States Gini Coefficient"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#united-states-median-household-income",
+    "href": "slides/lecture-12.2.html#united-states-median-household-income",
+    "title": "Lecture 12.2",
+    "section": "United States Median Household Income",
+    "text": "United States Median Household Income"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#bottom-90-vs.-top-10-income-shares-u.s.",
+    "href": "slides/lecture-12.2.html#bottom-90-vs.-top-10-income-shares-u.s.",
+    "title": "Lecture 12.2",
+    "section": "Bottom 90% vs. Top 10% Income Shares (U.S.)",
+    "text": "Bottom 90% vs. Top 10% Income Shares (U.S.)"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#united-states-average-incomes",
+    "href": "slides/lecture-12.2.html#united-states-average-incomes",
+    "title": "Lecture 12.2",
+    "section": "United States Average Incomes",
+    "text": "United States Average Incomes"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#exercise",
+    "href": "slides/lecture-12.2.html#exercise",
+    "title": "Lecture 12.2",
+    "section": "Exercise",
+    "text": "Exercise\n\nGo to wid.world\nCountry graphs section\nSelect a country\n\nCanada\nUnited Kingdom\nGermany\nFrance\nSweden\nChina\nIndia\n\nHow have pre-tax income shares changed over time?\nHow does your country compare to the world and the U.S. in terms of shares of top 10%"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#pickety-vs.-stiglitz",
+    "href": "slides/lecture-12.2.html#pickety-vs.-stiglitz",
+    "title": "Lecture 12.2",
+    "section": "Pickety vs. Stiglitz",
+    "text": "Pickety vs. Stiglitz\n\nPickety: r > g\n\nThere is some truth to “r > g” in the U.S.\n\nMost people do not have a lot of non-home wealth\n\nBut upward slope of inequality sharper in U.S.\n\nStiglitz: “rent seeking”\n\nCEOs pay themselves rather than paying workers\nRent is drawing income by capturing something\n\nAs opposed to producing something of value\nGrabbing wealth vs. creating wealth"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#other-explanations",
+    "href": "slides/lecture-12.2.html#other-explanations",
+    "title": "Lecture 12.2",
+    "section": "Other Explanations",
+    "text": "Other Explanations\n\nEconomic globalization\n\nTrade\nInternationalization of finance\n\nConservative economic policy (Regan revolution)\n\nRemoval of capital controls\nDeregulation\nShifts in tax policy\n\nTechnology and skill development\n\nReduced demand for low-skilled workers\n\nImmigration\nSocial norms and reward system\nDecline of left parties and unions\nLack of redistribution"
+  },
+  {
+    "objectID": "slides/lecture-12.2.html#debate-should-big-tech-be-broken-up",
+    "href": "slides/lecture-12.2.html#debate-should-big-tech-be-broken-up",
+    "title": "Lecture 12.2",
+    "section": "Debate: Should Big Tech be Broken Up",
+    "text": "Debate: Should Big Tech be Broken Up\n\nPick one of the FAANG companies\n\nFacebook (Meta)\nAmazon\nApple\nNetflix\nGoogle (Alphabet)\n\nShould it be broken up into smaller companies?\n\nWinners and losers\nRelate your argument to inequality/Stiglitz"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#what-is-populism",
+    "href": "slides/lecture-14.1.html#what-is-populism",
+    "title": "Lecture 14.1",
+    "section": "What is Populism?",
+    "text": "What is Populism?\n\nA political movement that champions the people against the establishment\nLeft-wing populism: dyadic and vertical, mobilized along class lines\n\nGovernment/elites have forgotten about the ordinary people\n“Ordinary people” could be the middle class or the poor, depending on the country or region\n\nRight-wing populism: triadic and horizontal, mobilized along class and ethnic lines\n\nGovernment/elites have forgotten about the ordinary people in the racial or ethnic majority\nAttacks establishment for siphoning resources to immigrants and minorities\n\nCrucially, populists operate inside of a democratic system\n\nAs opposed to fascists or left-wing extremists in Europe or Latin America"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#where-does-populism-come-from",
+    "href": "slides/lecture-14.1.html#where-does-populism-come-from",
+    "title": "Lecture 14.1",
+    "section": "Where Does Populism Come From?",
+    "text": "Where Does Populism Come From?\n\nReaction to changes in the economy (and immigration)\nOften spurred by laissez-faire economic policies that benefit the rich\nFrequently the long-term result of economic crisis (1870s-1880s, 1929, late-1970s, 2008, etc.)\n\nPopulists accuse mainstream parties of ignoring crisis altogether, not addressing the root causes of the crisis, or selling out ordinary voters in order to resolve crisis\n\n\nMost left-wing populist movements demand government intervention that will reduce inequality and restore the middle class\nBut populist demands can be coupled with demands to get the government out of the economy\n\nUsually a component of right-wing populist groups\nThe government “distorts” the economy by taxing wealth and giving it to poor minorities\nOr to middle class bureaucrats"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#neoliberal-policy-in-the-u.s.",
+    "href": "slides/lecture-14.1.html#neoliberal-policy-in-the-u.s.",
+    "title": "Lecture 14.1",
+    "section": "Neoliberal Policy in the U.S.",
+    "text": "Neoliberal Policy in the U.S.\n\nBirthplace of neoliberalism\n\nHome of “Washington Consensus”\n\nReaction to competitive challenges faced by U.S. business starting in the 1970s\n\nFactories in Western Europe and Japan\nSteel production throughout Asia\nTextile production in developing countries\n\nBusiness felt regulations and unions prevented them from competing\n\nRepressed unions\nMoved factories abroad and to “right to work” states\nHired more immigrant workers\n\n1965 Immigration and Naturalization Act (Hart-Celler)\nFrom quota-based to family and skill-based immigration\n\nPushed for free trade agreements like NAFTA\n\nProblem was that immigration and trade were not popular with most voters\n\nCreated backlash that populists could exploit"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#populism-in-the-u.s.-i",
+    "href": "slides/lecture-14.1.html#populism-in-the-u.s.-i",
+    "title": "Lecture 14.1",
+    "section": "Populism in the U.S. I",
+    "text": "Populism in the U.S. I\n\nPeople’s Party in the U.S. (1890s)\n\nFormed by members of Kansas Farmers’ Alliance and Knights of Labor\nReaction to Grover Cleveland and “robber baron” capitalism of 19th century\n\nGrew out of farm revolt of 1870s and 1880s\n\nSteep fall in agricultural prices\nAggravated by increased transportation costs\n\nRailroad monopolies\n\n\nSaw themselves as representing people vs. elites\n\nPeople = farmers and workers\nElites = capitalists, speculators and mainstream parties\n\nWon lots of seats in 1894 but was coopted by mainstream parties in subsequent years"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#populism-in-the-u.s.-ii",
+    "href": "slides/lecture-14.1.html#populism-in-the-u.s.-ii",
+    "title": "Lecture 14.1",
+    "section": "Populism in the U.S. II",
+    "text": "Populism in the U.S. II\n\nHuey Long\n\nGovernor of Louisiana (1928-1932); U.S. Senator (1932-35)\nRailed against power and influence of oil companies\n“Share Our Wealth Society”\n\nProposed wealth cap ($5 million per family; $1 million per individual)\nUse revenue to fund guaranteed income\n\nForced Roosevelt to pass “Second New Deal” that included social security, NLRA, WPA and wealth taxes\nAssassinated in 1935\n\nGeorge Wallace\n\nGovernor of Alabama (four terms)\nGovernment “full of rich people” who wanted to give their money to the poor\nLed conservative backlash to Civil Rights Act, Voting Rights Act and racial integration\nFramed opposition to integration as defense against “big government”"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#populism-in-the-u.s.-iii",
+    "href": "slides/lecture-14.1.html#populism-in-the-u.s.-iii",
+    "title": "Lecture 14.1",
+    "section": "Populism in the U.S. III",
+    "text": "Populism in the U.S. III\n\nReaction to rise of neoliberalism\nRoss Perot\n\nAttacked trade deals and distortion of politics by big business\nRoss Perot’s Giant Sucking Sound\n\nPat Buchanan\n\nAlso attacked trade deals, but also immigration\n\nTea Party\n\nAttacked Obama’s mortgage bailouts, Obamacare and illegal immigration\n\nOccupy Wall Street\n\nAttacked Obama for not being tough enough on bankers, focused on inequality\nThe Occupy Movement"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#trump-vs.-sanders",
+    "href": "slides/lecture-14.1.html#trump-vs.-sanders",
+    "title": "Lecture 14.1",
+    "section": "Trump vs. Sanders",
+    "text": "Trump vs. Sanders\n\nTrump\n\nPrior to running in 2016, he was a moderate on social issues (like abortion) and social spending (supported idea of universal health care)\nAlways opposed free trade and immigration\n\nSanders\n\nMain target is the “billionaire class” (the 1%)\nAdvocates Nordic-style social democracy as an antidote to rising inequality"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#discussion",
+    "href": "slides/lecture-14.1.html#discussion",
+    "title": "Lecture 14.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nWas Trump’s support more due to a reaction to neolibarlism or to immigration?\nWhy was Bernie Sanders, who focused on inequality and the one percent, ultimately less successful than Trump as a presidential candidate?\n\nIn your discussion, reference the chapter you read from Judis’s The Populist Explosion"
+  },
+  {
+    "objectID": "slides/lecture-14.1.html#small-groups-3-or-4-on-common-topics",
+    "href": "slides/lecture-14.1.html#small-groups-3-or-4-on-common-topics",
+    "title": "Lecture 14.1",
+    "section": "Small Groups (3 or 4 on common topics)",
+    "text": "Small Groups (3 or 4 on common topics)\n\nEach person explain their project idea and data they will use\nQuestions about data, how to get\nWork through process of downloading, organizing data in Excel Power Query Editor\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#golden-years-of-post-war-capitalism",
+    "href": "slides/lecture-14.2.html#golden-years-of-post-war-capitalism",
+    "title": "Lecture 14.2",
+    "section": "Golden Years of Post-War Capitalism",
+    "text": "Golden Years of Post-War Capitalism\n\nTrade \\(\\rightarrow\\) growth \\(\\rightarrow\\) social safety net, wage gains & social peace\nLow unemployment, low inflation\nCame to an end in 1970s for same reasons in the U.S.\n\nOvercapacity\nRegulations\nAggressive unions (in some countries, but not all)\nHigher oil prices (energy crisis)"
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#crisis-and-fallout",
+    "href": "slides/lecture-14.2.html#crisis-and-fallout",
+    "title": "Lecture 14.2",
+    "section": "Crisis and Fallout",
+    "text": "Crisis and Fallout\n\nDeficit spending that stimulated demand in golden years made things worse in the crisis\n\nIncreased inflation\nUndermined investment\nIncreased demand for imports, worsening BOP\n\nTo cope with the crisis, leaders turned away from Keynesian policies and toward neoliberal policies\n\nTried to limit wage increases\nRaised taxes to tamp down consumer demand\nRaised interest rates\nSquashed or coopted unions\nRemoved regulations on industry\nLowered taxes on businesses and the wealthy\nEtc."
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#immigration",
+    "href": "slides/lecture-14.2.html#immigration",
+    "title": "Lecture 14.2",
+    "section": "Immigration",
+    "text": "Immigration\n\nDuring the boom years, labor was in short supply, immigrants came for work\nIn the 1980s, however, new immigrants were asylum seekers\nMost recent wave of refugees is from refugees trying to escape the violence in the Middle East\ncool map"
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#the-european-union-1",
+    "href": "slides/lecture-14.2.html#the-european-union-1",
+    "title": "Lecture 14.2",
+    "section": "The European Union 1",
+    "text": "The European Union 1\n\nPrecursors to the EU (1950s)\n\nEuropean Coal and Steel Community\nEuropean Economic Community\nFrance, West Germany, Netherlands, Luxembourg, Belgium and Italy\n\nFormation of EU in 1993\n\nAllowed goods and people to move freely\nOriginal six plus Greece, Spain, Portugal, the UK, Ireland and Denmark\nAll except UK and Denmark also signed onto the Euro in 1999"
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#the-europe-union-2",
+    "href": "slides/lecture-14.2.html#the-europe-union-2",
+    "title": "Lecture 14.2",
+    "section": "The Europe Union 2",
+    "text": "The Europe Union 2\n\nStability and Growth Pact (1997)\n\nMembers’ deficits had to stay below 3% of GDP and debt below 60% of GDP\nSeverely constrained government spending\nDevaluations impossible and tariffs forbidden\nCemented in place neoliberal policy, no room for Keynesian response to downturns\n\nFreedom of movement\n\nUnions opposed because companies could move to places with cheaper labor\nRight opposed because of influx of immigrants from poorer EU countries"
+  },
+  {
+    "objectID": "slides/lecture-14.2.html#discussion-strategy",
+    "href": "slides/lecture-14.2.html#discussion-strategy",
+    "title": "Lecture 14.2",
+    "section": "Discussion Strategy",
+    "text": "Discussion Strategy\n\nIdentify one chapter from Part II or Part III from Judis\nMeet with other people who read chapter from same part of book\nNow share findings with a group that read a chapter from different part\nQuestion: should the U.S. abandon globalism?"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#what-is-an-institution",
+    "href": "slides/lecture-2.1.html#what-is-an-institution",
+    "title": "Lecture 2.1",
+    "section": "What is an Institution?",
+    "text": "What is an Institution?\n“Humanly devised constraints that structure political, economic and social interaction. They consist of both informal constraints (sanctions, taboos, customs, traditions and codes of conduct), and formal rules (constitutions, laws, property rights).”\n    - Douglas North"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#inclusive-institutions",
+    "href": "slides/lecture-2.1.html#inclusive-institutions",
+    "title": "Lecture 2.1",
+    "section": "Inclusive Institutions",
+    "text": "Inclusive Institutions\n\nInclusive institutions…“allow and encourage participation by the great mass of people in economic activities that make the best use of their talents and skills and enable individuals to make the choices they wish.”\nEconomic: private property, unbiased legal system, banks, legally binding contracts, etc.\nPolitical: can take a variety of forms but must be pluralistic (constrained) with centralized and powerful state"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#extractive-institutions",
+    "href": "slides/lecture-2.1.html#extractive-institutions",
+    "title": "Lecture 2.1",
+    "section": "Extractive Institutions",
+    "text": "Extractive Institutions\n\nExtractive institutions are…“designed to extract incomes and wealth from one subset of society to benefit a different subset.”\nEconomic: limited or non-existent property rights, biased legal system, slavery\nPolitical: absolutist, repressive, may or may not be centralized"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#key-arguments",
+    "href": "slides/lecture-2.1.html#key-arguments",
+    "title": "Lecture 2.1",
+    "section": "Key Arguments",
+    "text": "Key Arguments\n\nHypothesis 1: Inclusive economic institutions promote investment and economic growth, while extractive institutions discourage investment and hamper economic growth\nHypothesis 2: Inclusive political institutions encourage the development of inclusive economic institutions and vice-versa"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#distribution-of-authority",
+    "href": "slides/lecture-2.1.html#distribution-of-authority",
+    "title": "Lecture 2.1",
+    "section": "Distribution of Authority",
+    "text": "Distribution of Authority\n\n\n\nAcemoglu & Robinson, figure 3\n\n\n\n\nInstitutional change/progress depends on distributed authority\nPulls power away from monarch/dictator\nBroad coalitions counter narrow interests"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#persistence-and-change",
+    "href": "slides/lecture-2.1.html#persistence-and-change",
+    "title": "Lecture 2.1",
+    "section": "Persistence and Change",
+    "text": "Persistence and Change\n\nWhy do extractive institutions persist?\n\nIndustrial progress threatens the interests of dictators and other elites\nPolany’s “double movement”\nSchumpeter’s theory of “creative destruction”\n\nWhen do institutions change?\n\nCritical junctures (and small differences)\ne.g. disease \\(\\rightarrow\\) shift in labor market dynamics\nRevolution gives a group new power\n\n\n\n\nA&R give the example of bubonic plague leading to shift in labor market dynamics\n\nMaybe something similar is going on with COVID?\n\nRevolution leads to assertion of power for one class or another\n\nGlorious Revolution lead to permanent assertion of power of parliament over the crown\nFrench revolution led to greater power for lower classes, established constitution that limited power of the monarchy\nOther examples?"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#reversal-of-fortunes",
+    "href": "slides/lecture-2.1.html#reversal-of-fortunes",
+    "title": "Lecture 2.1",
+    "section": "Reversal of Fortunes",
+    "text": "Reversal of Fortunes\n\nExtractive institutions make a region wealthy in one period, but poor in the next\nExamples?\n\n\nslavery; the encomienda system (forced labor); child labor"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#north-korea-vs.-south-korea",
+    "href": "slides/lecture-2.1.html#north-korea-vs.-south-korea",
+    "title": "Lecture 2.1",
+    "section": "North Korea vs. South Korea",
+    "text": "North Korea vs. South Korea\n\nNorth Korea nighttime lights"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#the-united-states-vs.-mexico",
+    "href": "slides/lecture-2.1.html#the-united-states-vs.-mexico",
+    "title": "Lecture 2.1",
+    "section": "The United States vs. Mexico",
+    "text": "The United States vs. Mexico\n\nNogales Sonora (left), Nogales Arizona (right) in 2021"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#other-cases",
+    "href": "slides/lecture-2.1.html#other-cases",
+    "title": "Lecture 2.1",
+    "section": "Other Cases",
+    "text": "Other Cases\n\nAcemoglu & Robinson, figure 4"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#zimbabwe-south-africa-china",
+    "href": "slides/lecture-2.1.html#zimbabwe-south-africa-china",
+    "title": "Lecture 2.1",
+    "section": "Zimbabwe, South Africa & China",
+    "text": "Zimbabwe, South Africa & China\n\n\n\n\n\nSource: Maddison Project Database, version 2018.\n\n\n\n\n\nDiscuss in this order: Zimbabwe, South Africa and China Use China to transition to growth under dictatorship\nIf things are going fast, do small groups; have each choose on case for discussion."
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#some-famous-dictators",
+    "href": "slides/lecture-2.1.html#some-famous-dictators",
+    "title": "Lecture 2.1",
+    "section": "Some Famous Dictators",
+    "text": "Some Famous Dictators\n\n\n\n\n\n\nMobutu Sese Seko\n\n\n\n\n\n\n\nPark Chung Hee\n\n\n\n\n\n\n\nNikita Khrushchev\n\n\n\n\n\n\nAll three are dictators; did their countries grow at the same rate under their leadership?"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#growth-under-famous-dictators",
+    "href": "slides/lecture-2.1.html#growth-under-famous-dictators",
+    "title": "Lecture 2.1",
+    "section": "Growth Under Famous Dictators",
+    "text": "Growth Under Famous Dictators\n\n\n\n\n\nSource: Maddison Project Database, version 2018.\n\n\n\n\n\nHow do we explain variation in growth rates under repressive regimes?\nDRC is purely extractive; USSR directs resources towards productive sectors; while South Korea (and China) adopt inclusive political institutions"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#growth-under-repressive-regimes",
+    "href": "slides/lecture-2.1.html#growth-under-repressive-regimes",
+    "title": "Lecture 2.1",
+    "section": "Growth Under Repressive Regimes",
+    "text": "Growth Under Repressive Regimes\n\nGrowth under extractive institutions is possible\n\nWhen elite funnel resources to high productivity areas\nWhen authoritarian regimes permit inclusive economic institutions\n\nBut this growth is inherently limited\n\nLack of incentives for innovation and production\nResistance to creative destruction\nInfighting among the elite"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#the-united-states",
+    "href": "slides/lecture-2.1.html#the-united-states",
+    "title": "Lecture 2.1",
+    "section": "The United States",
+    "text": "The United States\n\n\n\nVan Ingen & Snyder, 1864\n\n\n\nWood carving is by Van Ingen & Snyder from a book titled The Suppressed Book About Slavery! published by G.W. Carleton and Co. in 1864."
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#the-united-kingdom",
+    "href": "slides/lecture-2.1.html#the-united-kingdom",
+    "title": "Lecture 2.1",
+    "section": "The United Kingdom",
+    "text": "The United Kingdom\n\nGirls rolling roads in India, 1930"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#economic-impact-of-colonialism",
+    "href": "slides/lecture-2.1.html#economic-impact-of-colonialism",
+    "title": "Lecture 2.1",
+    "section": "Economic Impact of Colonialism",
+    "text": "Economic Impact of Colonialism\n\n\n\n\n\nSource: Maddison Project Database, version 2018.\n\n\n\n\n\n\nIndia’s fortunes as a global power declined under the British\nIndia had the world’s leading economy until the 18th century\nIndia’s share of the global economy feel from 24% of global GDP to around 4% when the British left\nIndia saw a decline under the British until the middle of the 19th century, at which point it began to grow again, but the growth was uneven and steady upward growth only resumed after the British left\nIndia’s economy stagnated because the British extracted raw materials and sold finished products (mainly textiles and garments) back to India as a captive market\nThe British eenacted laws that prevented Indian industry from competing with British imports, killing India’s textile sector, which it had a huge comparative advantage in before the British arrived\nThere are some caveats:\n\nAlthough its GDP was lower, India grew at a faster pace under the British than under the Mughals\nMughals were also pretty brutal as far as rulers go and hoarded most of India’s wealth\nThe Mughal empire was already on the decline when the British came\n\nHowever the fact remains that the British adoped and heavily relied upon extractive institutions to transfer wealth back to Britain"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#endogeneity",
+    "href": "slides/lecture-2.1.html#endogeneity",
+    "title": "Lecture 2.1",
+    "section": "Endogeneity",
+    "text": "Endogeneity\n\nA relationship is “endogenous” when the direction of causality is unclear\nA&R hypothesize that inclusive institutions drive development\nBut could inclusive institutions be the result of development?\nOr could there be a third factor driving both?\n\nWhat are some possibilities?"
+  },
+  {
+    "objectID": "slides/lecture-2.1.html#exercise",
+    "href": "slides/lecture-2.1.html#exercise",
+    "title": "Lecture 2.1",
+    "section": "Exercise",
+    "text": "Exercise\n\nWrite two or three sentences on what you found convincing about A&R’s theory\nWrite two or three sentences on what you found problematic\nDiscuss with a neighbor\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#what-is-modernization-theory",
+    "href": "slides/lecture-2.2.html#what-is-modernization-theory",
+    "title": "Lecture 2.2",
+    "section": "What is Modernization Theory?",
+    "text": "What is Modernization Theory?\n\nBased on observation by Lipset (1959)\nNoted that democracy is highly correlated with development\nTook on guise of causal argument\n\nWealth → development\nLed to decades of debate"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#some-stylized-facts",
+    "href": "slides/lecture-2.2.html#some-stylized-facts",
+    "title": "Lecture 2.2",
+    "section": "Some Stylized Facts",
+    "text": "Some Stylized Facts\n\nWealthier countries tend to be more democratic\nRelationship tends to be stronger before WWII\nThere also tend to be big regional differences\n\nIn some regions the relationship is evident\nIn others, not as much"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#modernization-before-1945",
+    "href": "slides/lecture-2.2.html#modernization-before-1945",
+    "title": "Lecture 2.2",
+    "section": "Modernization Before 1945",
+    "text": "Modernization Before 1945"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#modernization-in-the-post-war-period",
+    "href": "slides/lecture-2.2.html#modernization-in-the-post-war-period",
+    "title": "Lecture 2.2",
+    "section": "Modernization in the Post-War Period",
+    "text": "Modernization in the Post-War Period"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#thinking-about-the-data",
+    "href": "slides/lecture-2.2.html#thinking-about-the-data",
+    "title": "Lecture 2.2",
+    "section": "Thinking About the Data",
+    "text": "Thinking About the Data\n\nWhich countries fall on the line in the two graphs?\nWhich are outliers?\nWhich countries move into the southeast quadrant?\n\nWhy is that significant?\n\nFind your favorite country.\n\nIs it where you thought it would be?"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#the-v-dem-institute",
+    "href": "slides/lecture-2.2.html#the-v-dem-institute",
+    "title": "Lecture 2.2",
+    "section": "The V-Dem Institute",
+    "text": "The V-Dem Institute\n\nVarieties of Democracy (V-Dem)\nPolyarchy score\n\nRobert Dahl\nPolyarch–form of government in which power is vested in multiple people\n\nV-Dem’s polyarch index is based on concept of electoral democracy"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#electoral-democracy",
+    "href": "slides/lecture-2.2.html#electoral-democracy",
+    "title": "Lecture 2.2",
+    "section": "Electoral Democracy",
+    "text": "Electoral Democracy\nElectoral Democracy: “seeks to embody the core value of making rulers responsive to citizens, achieved through electoral competition…[P]olitical and civil society organizations can operate freely, elections are clean..and affect the composition of the chief executive.”"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#other-ways-to-think-about-democracy",
+    "href": "slides/lecture-2.2.html#other-ways-to-think-about-democracy",
+    "title": "Lecture 2.2",
+    "section": "Other Ways to Think About Democracy",
+    "text": "Other Ways to Think About Democracy\nLiberal Democracy: “emphasizes the importance of protecting individual and minority rights against the tyranny of the state and the tyranny of the majority…judges the quality of democracy by the limits placed on government.”\n\nParticipatory Democracy: “emphasizes active participation by citizens in all political processes, electoral and non-electoral..” and “engagement in civil society organizations, direct democracy, and subnational elected bodies.”"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#democracy-and-development-by-region",
+    "href": "slides/lecture-2.2.html#democracy-and-development-by-region",
+    "title": "Lecture 2.2",
+    "section": "Democracy and Development by Region",
+    "text": "Democracy and Development by Region"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#thinking-about-the-data-1",
+    "href": "slides/lecture-2.2.html#thinking-about-the-data-1",
+    "title": "Lecture 2.2",
+    "section": "Thinking About the Data",
+    "text": "Thinking About the Data\n\nWhere is the relationship strongest?\nWhere is it weakest?\nWhy is the relationship stronger or weaker in some places?\nWhat are some regional outliers? Why are they different?"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#democracy-and-development-over-time",
+    "href": "slides/lecture-2.2.html#democracy-and-development-over-time",
+    "title": "Lecture 2.2",
+    "section": "Democracy and Development Over Time",
+    "text": "Democracy and Development Over Time"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#thinking-about-the-data-2",
+    "href": "slides/lecture-2.2.html#thinking-about-the-data-2",
+    "title": "Lecture 2.2",
+    "section": "Thinking About the Data",
+    "text": "Thinking About the Data\n\nPick your favorite era\nWas this era more or less democratic than modernization theory would predict?\nDoes this surprise you?"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#endogenous-democratization",
+    "href": "slides/lecture-2.2.html#endogenous-democratization",
+    "title": "Lecture 2.2",
+    "section": "Endogenous Democratization",
+    "text": "Endogenous Democratization\n\nDemocracy is a direct consequence of economic development\nSynonymous with modernization theory\n\nEndogenous–coming from within\nDemocracy is a result of wealth\n\nMechanisms\n\nIndustrialization\nUrbanization\nRise of middle class\nEducation"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#exogenous-democratization",
+    "href": "slides/lecture-2.2.html#exogenous-democratization",
+    "title": "Lecture 2.2",
+    "section": "Exogenous Democratization",
+    "text": "Exogenous Democratization\n\nExogenous–resulting from an external cause\nWealth does not cause democracy\nBut democracy is more easily sustained in wealthy countries (Przeworski et. al.)\nMechanisms unclear (Boix & Stokes)"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#are-the-wealthiest-countries-democratic",
+    "href": "slides/lecture-2.2.html#are-the-wealthiest-countries-democratic",
+    "title": "Lecture 2.2",
+    "section": "Are the Wealthiest Countries Democratic?",
+    "text": "Are the Wealthiest Countries Democratic?"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#in-terms-of-purchasing-power-parity",
+    "href": "slides/lecture-2.2.html#in-terms-of-purchasing-power-parity",
+    "title": "Lecture 2.2",
+    "section": "In terms of Purchasing Power Parity…",
+    "text": "In terms of Purchasing Power Parity…"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#thinking-about-the-data-3",
+    "href": "slides/lecture-2.2.html#thinking-about-the-data-3",
+    "title": "Lecture 2.2",
+    "section": "Thinking About the Data",
+    "text": "Thinking About the Data\n\nDiscuss the differences between GDP and nominal terms\nDo you think the most recent data support modernization theory?\nOr is exogenous theory more convincing?"
+  },
+  {
+    "objectID": "slides/lecture-2.2.html#squaring-the-circle",
+    "href": "slides/lecture-2.2.html#squaring-the-circle",
+    "title": "Lecture 2.2",
+    "section": "Squaring the Circle",
+    "text": "Squaring the Circle\n\n\n\nAcemoglu & Robinson, figure 4\n\n\n\nHow would we make sense of A&R’s cases in light of today’s discussion? A&R clearly want to discount modernization theory: institutions come first for A&R But then how do inclusive institutions and strong states emerge? Can we resolve the contradictions among these three theories: A&R, modernization, endogenous democratization?\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#regime-types",
+    "href": "slides/lecture-3.1.html#regime-types",
+    "title": "Lecture 3.1",
+    "section": "Regime Types",
+    "text": "Regime Types\n\nDemocracies\n\nFree and fair elections\nProtection of civil liberties\n\nHybrid regimes (illiberal, semi-authoritarian)\n\nElections, degree of fairness in question\nMore restricted civil liberties\n\nAuthoritarian regimes\n\nNo elections, or rigged elections\nNo basic rights and liberties"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#democratic-or-authoritarian-backsliding",
+    "href": "slides/lecture-3.1.html#democratic-or-authoritarian-backsliding",
+    "title": "Lecture 3.1",
+    "section": "Democratic (or Authoritarian) Backsliding",
+    "text": "Democratic (or Authoritarian) Backsliding\n“[A] decline in the quality of democracy, when it occurs within democratic regimes, or in democratic qualities of governance in autocracies.”\n\nLust and Waldman"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#regime-type-trends",
+    "href": "slides/lecture-3.1.html#regime-type-trends",
+    "title": "Lecture 3.1",
+    "section": "Regime Type Trends",
+    "text": "Regime Type Trends"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#examples",
+    "href": "slides/lecture-3.1.html#examples",
+    "title": "Lecture 3.1",
+    "section": "Examples",
+    "text": "Examples"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#common-mechanisms",
+    "href": "slides/lecture-3.1.html#common-mechanisms",
+    "title": "Lecture 3.1",
+    "section": "Common Mechanisms",
+    "text": "Common Mechanisms\n\nConstitutional amendments to enhance executive authority\nElimination of checks and balances, reduction of accountability\nCentralization of executive power through purges\nIntimidation of media and civil society\nElimination of political competition\n\nattacks on competitors\nrigged elections"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#methods-of-backsliding-bormeo",
+    "href": "slides/lecture-3.1.html#methods-of-backsliding-bormeo",
+    "title": "Lecture 3.1",
+    "section": "Methods of Backsliding (Bormeo)",
+    "text": "Methods of Backsliding (Bormeo)\n\nOld Way\n\nOpen-ended coups\nExecutive coups\nVote fraud\n\nNew Way\n\nPromissory coups\nExecutive aggrandizement\nStrategic harassment and manipulation"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#u.s.-in-comparative-perspective",
+    "href": "slides/lecture-3.1.html#u.s.-in-comparative-perspective",
+    "title": "Lecture 3.1",
+    "section": "U.S. in Comparative Perspective",
+    "text": "U.S. in Comparative Perspective\n\nKaufman and Haggard reading\nHow has backsliding occurred in middle-income countries?\nHow similar is the U.S. to these countries?\nIs electoral authoritarianism possible in the U.S.?"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#hypotheses-13",
+    "href": "slides/lecture-3.1.html#hypotheses-13",
+    "title": "Lecture 3.1",
+    "section": "Hypotheses (1/3)",
+    "text": "Hypotheses (1/3)\n\nLeadership\n\nState strength and autonomy (how leaders create it)\nRole of elites in negotiating transitions, dividing power\n\nCulture\n\nCivic culture\nSocial capital and education"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#hypotheses-23",
+    "href": "slides/lecture-3.1.html#hypotheses-23",
+    "title": "Lecture 3.1",
+    "section": "Hypotheses (2/3)",
+    "text": "Hypotheses (2/3)\n\nSpecific types of political institutions\n\nPresidential vs. parliamentary systems\nConsociationalism (for divided societies)\nElectoral institutions\n\nPR vs SMD\nIf PR type of lists\nParty fragmentation and instability (e.g. Indonesia)\n\n\nInternational factors\n\nInternational orgs (foreign aid, election monitoring, etc.)\nAlliances (who are your friends?)"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#hypotheses-33",
+    "href": "slides/lecture-3.1.html#hypotheses-33",
+    "title": "Lecture 3.1",
+    "section": "Hypotheses (3/3)",
+    "text": "Hypotheses (3/3)\n\nSocial structures\n\nClass (bourgeoisie, working class, etc.)\nEthnic fragmentation\n\nRelevance of economic and political exclusion\n\n\nEconomic factors (see below)"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#wealth",
+    "href": "slides/lecture-3.1.html#wealth",
+    "title": "Lecture 3.1",
+    "section": "Wealth",
+    "text": "Wealth\n\nExogenous Democratization\nRising wealth makes backsliding less likely\n“No democracy was ever subverted in a country with a per capita income higher than Argentina in 1975: $6,055” (Przeworski)"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#inequality",
+    "href": "slides/lecture-3.1.html#inequality",
+    "title": "Lecture 3.1",
+    "section": "Inequality",
+    "text": "Inequality\n\n“Redistributivist” theory\n\nDemocracy is more durable in egalitarian societies\n\nWhen the poor demand redistribution of elite’s wealth, elites react by “digging in their heels” because redistribution would be too drastic (Acemoglu and Robinson 2006)\nDemands for redistribution are less in societies with lower inequality and societies where assets of elites are mobile (Boix\n\n\n\nCompetition from rising elites (Ansell and Samuels 2014)"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#macroeconomic-performance",
+    "href": "slides/lecture-3.1.html#macroeconomic-performance",
+    "title": "Lecture 3.1",
+    "section": "Macroeconomic Performance",
+    "text": "Macroeconomic Performance\n\nLiterature especially focused on growth and inflation (Kapstein and Converse)\n\nHigh growth rates \\(\\rightarrow\\) less risk of backsliding\nHigh inflation increases risk\n\nArguably more about regime stability than democracy\n\nApplies equally well to authoritarian regimes\nHigh performing autocracies likely to survive\n“Performance legitimacy”, e.g. China"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#natural-resource-wealth",
+    "href": "slides/lecture-3.1.html#natural-resource-wealth",
+    "title": "Lecture 3.1",
+    "section": "Natural resource wealth",
+    "text": "Natural resource wealth\n\nUndermines democracy\nPromotes authoritarianism\nFocus of next week’s discussion"
+  },
+  {
+    "objectID": "slides/lecture-3.1.html#group-exercise",
+    "href": "slides/lecture-3.1.html#group-exercise",
+    "title": "Lecture 3.1",
+    "section": "Group Exercise",
+    "text": "Group Exercise\n\nV-Dem graphing tool\nInteractive Map Tool\n\nOne variable multiple countries\nLook at electoral democracy and one other variable\n\nVariable Graph\n\nOne variable, compare two countries\nZoom in on one country from the map\n\nCountry Graph\n\nOne country, multiple variables\nStart with electoral democracy and expand\n\n\n** What interesting patterns/questions arise?\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#central-questions",
+    "href": "slides/lecture-3.2.html#central-questions",
+    "title": "Lecture 3.2",
+    "section": "Central Questions",
+    "text": "Central Questions\n\nWhat is the resource curse?\n\n“Dutch Disease”\n“Four S’s”\n\nPolicy solutions\nBreaking down the resource curse\n\nDemocracy, accountability, gender, conflict\n\nMuch of the discussion will focus on oil\n\nBut many of the arguments also apply to other resources"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#what-is-the-resource-curse",
+    "href": "slides/lecture-3.2.html#what-is-the-resource-curse",
+    "title": "Lecture 3.2",
+    "section": "What is The Resource Curse?",
+    "text": "What is The Resource Curse?\n\nThe combined political and economic effects of natural resource wealth\n\nLow growth, particularly in industry\nLow accountability and high corruption\nVolatility in government revenues\nEntrenched patriarchy\nPolitical instability and conflict (civil wars)\nAdverse implications for democracy and democratic transitions (our main focus)"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-electoral-democracy",
+    "href": "slides/lecture-3.2.html#oil-and-electoral-democracy",
+    "title": "Lecture 3.2",
+    "section": "Oil and Electoral Democracy",
+    "text": "Oil and Electoral Democracy"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#ross-discussion",
+    "href": "slides/lecture-3.2.html#ross-discussion",
+    "title": "Lecture 3.2",
+    "section": "Ross Discussion",
+    "text": "Ross Discussion\n\nWhat is a “fiscal theory of democracy” and what does it have to do with the oil curse?\nSee graph on previous slide\nWhich country cases support Ross’s theory?\nWhich countries are exceptions?"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-the-four-ss",
+    "href": "slides/lecture-3.2.html#oil-and-the-four-ss",
+    "title": "Lecture 3.2",
+    "section": "Oil and the “Four S’s”",
+    "text": "Oil and the “Four S’s”\n\nSource (rentier effect)\n\nNon-tax revenues\nLack of accountability\n\nScale\n\nSpending\nRepression\n\nSecrecy (corruption)\nStability (revenue)"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#dutch-disease",
+    "href": "slides/lecture-3.2.html#dutch-disease",
+    "title": "Lecture 3.2",
+    "section": "Dutch Disease",
+    "text": "Dutch Disease\n\nDecline of export sectors when a natural resource is discovered\nDeindustrialization\n\nPoor allocation of resources (investment)\nGovernment crowds out private sector\n\nHigher exchange rates\n\nHurt competitiveness of industrial sector\nMay lead to protectionist policies"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#where-are-the-resoruces",
+    "href": "slides/lecture-3.2.html#where-are-the-resoruces",
+    "title": "Lecture 3.2",
+    "section": "Where are the Resoruces?",
+    "text": "Where are the Resoruces?\nWho Makes Energy?\nWho Has the Oil?\n\nFollow the links to the U.S. Energy Information Agency website above. For the first link, play the ranking animation. For the second, select heat map and play the map animation. Discuss with a neighbor. Any surprises?"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#resource-production-as-of-gdp",
+    "href": "slides/lecture-3.2.html#resource-production-as-of-gdp",
+    "title": "Lecture 3.2",
+    "section": "Resource Production as % of GDP",
+    "text": "Resource Production as % of GDP"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#policy-discussion",
+    "href": "slides/lecture-3.2.html#policy-discussion",
+    "title": "Lecture 3.2",
+    "section": "Policy Discussion",
+    "text": "Policy Discussion\n\nLeaving oil in ground\nBarter contracts (oil for public goods)\nDistribute more oil revenues to citizens\nTransfer more money to regional or local governments\nPrivatize (and tax) oil sector\nStabilization funds\nBorrowing counter-cyclically\nEnhancing transparency"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-democracy-by-region",
+    "href": "slides/lecture-3.2.html#oil-and-democracy-by-region",
+    "title": "Lecture 3.2",
+    "section": "Oil and Democracy by Region",
+    "text": "Oil and Democracy by Region"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#heterogeneous-effects-1",
+    "href": "slides/lecture-3.2.html#heterogeneous-effects-1",
+    "title": "Lecture 3.2",
+    "section": "Heterogeneous Effects",
+    "text": "Heterogeneous Effects\n\nOil may have destabilizing effect in some regions but not others\nTheories\n\nDegree of resource dependence\nLevels of inequality (Dunning)\nExperience with democracy (Ross)\nIndustrial policy (Brooks and Kurtz)"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#latin-american-exceptionalism",
+    "href": "slides/lecture-3.2.html#latin-american-exceptionalism",
+    "title": "Lecture 3.2",
+    "section": "Latin American “Exceptionalism”",
+    "text": "Latin American “Exceptionalism”\n\nOil wealth and democracy are both endogenous to industrialization\n\nOil exploration requires investments in human capital\nThese investments are made as part of ISI policies (e.g. Brazil)\n\nISI = Import Substitution Industrialization\n\nIndustrialization, in turn, leads to democracy\n\nExtension of modernization theory\nWhat about Venezuela?"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-patriarchy-theory",
+    "href": "slides/lecture-3.2.html#oil-and-patriarchy-theory",
+    "title": "Lecture 3.2",
+    "section": "Oil and Patriarchy (Theory)",
+    "text": "Oil and Patriarchy (Theory)\n\nSource: Ross, The Oil Curse, Chapter 4"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-patriarchy-evidence",
+    "href": "slides/lecture-3.2.html#oil-and-patriarchy-evidence",
+    "title": "Lecture 3.2",
+    "section": "Oil and Patriarchy (Evidence)",
+    "text": "Oil and Patriarchy (Evidence)\n\nSource: Ross, The Oil Curse, Chapter 4"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-conflict-theory",
+    "href": "slides/lecture-3.2.html#oil-and-conflict-theory",
+    "title": "Lecture 3.2",
+    "section": "Oil and Conflict (Theory)",
+    "text": "Oil and Conflict (Theory)\n\nCosts vs. benefits of rebellion\n\nCosts: repression; opportunity costs\nBenefits: winning power; patronage from new leaders (if you win)\n\nExpected benefits > costs in oil-producing regions\n\nIncentives frequently lead to separatist wars\nSpoils of war greater for aspiring leaders"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#oil-and-conflict-evidence",
+    "href": "slides/lecture-3.2.html#oil-and-conflict-evidence",
+    "title": "Lecture 3.2",
+    "section": "Oil and Conflict (Evidence)",
+    "text": "Oil and Conflict (Evidence)\n\nSource: Ross, The Oil Curse, Chapter 5"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#where-does-oil-cause-conflict",
+    "href": "slides/lecture-3.2.html#where-does-oil-cause-conflict",
+    "title": "Lecture 3.2",
+    "section": "Where Does Oil Cause Conflict?",
+    "text": "Where Does Oil Cause Conflict?\n\n\n\nSource: Bell and Wolford 2015\n\n\n\nHighlight conditioning effects of ethnicity and poverty"
+  },
+  {
+    "objectID": "slides/lecture-3.2.html#mediating-effects-of-poverty",
+    "href": "slides/lecture-3.2.html#mediating-effects-of-poverty",
+    "title": "Lecture 3.2",
+    "section": "Mediating Effects of Poverty",
+    "text": "Mediating Effects of Poverty\n\nSource: Ross, The Oil Curse, Chapter 5"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#relevance",
+    "href": "slides/lecture-4.1.html#relevance",
+    "title": "Lecture 4.1",
+    "section": "Relevance",
+    "text": "Relevance\n\nInstrumental reasons\n\nFemale labor force participation\nwomen’s representation\n\nEthical reasons\n\nWhat is development?\n\nGrowth? Freedom? Participation?\n\nIs it development if half the population is left out?"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#sex-ratios-map",
+    "href": "slides/lecture-4.1.html#sex-ratios-map",
+    "title": "Lecture 4.1",
+    "section": "Sex ratios map",
+    "text": "Sex ratios map"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#causes-of-missing-women",
+    "href": "slides/lecture-4.1.html#causes-of-missing-women",
+    "title": "Lecture 4.1",
+    "section": "Causes of Missing Women",
+    "text": "Causes of Missing Women\n\nFemale deprivation—girls malnourished (Sen)\n\nTied to cultural factors (caste, dowry, etc)\n\nPoverty\n\nLower value placed on girls could lead to deprivation\nHowever, poor families depend more on girls for labor\n\nEnvironmental factors\n\nMacro-factors, e.g. climate change, pollution\nGestation environment, e.g. Hepatitis B\n\nFemale infanticide, sex-selective abortions"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#laws-and-regulations",
+    "href": "slides/lecture-4.1.html#laws-and-regulations",
+    "title": "Lecture 4.1",
+    "section": "Laws and Regulations",
+    "text": "Laws and Regulations\n\n\n\n\n\n\nThe index measures how laws and regulations affect women’s economic opportunity. Overall scores are calculated by taking the average score of each index (Mobility, Workplace, Pay, Marriage, Parenthood, Entrepreneurship, Assets and Pension), with 100 representing the highest possible score."
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#sexuality-and-reproductive-freedom",
+    "href": "slides/lecture-4.1.html#sexuality-and-reproductive-freedom",
+    "title": "Lecture 4.1",
+    "section": "Sexuality and Reproductive Freedom",
+    "text": "Sexuality and Reproductive Freedom"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#domestic-violence",
+    "href": "slides/lecture-4.1.html#domestic-violence",
+    "title": "Lecture 4.1",
+    "section": "Domestic Violence",
+    "text": "Domestic Violence"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#role-of-social-institutions",
+    "href": "slides/lecture-4.1.html#role-of-social-institutions",
+    "title": "Lecture 4.1",
+    "section": "Role of Social Institutions",
+    "text": "Role of Social Institutions\n\nSocial institutions—formal and informal constraints that influence social relations\nImportant role for gender because they determine what is deemed acceptable or unacceptable in a society\nOECD SIGI\n\nIndex of social discrimination\n\nScores on four dimensions combined to create overall score and ranking\n\n\n\n\n\ndiscrimination in the family\nrestricted physical integrity\nrestricted access to productive and financial resources\nrestricted civil liberties"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#sigi-map",
+    "href": "slides/lecture-4.1.html#sigi-map",
+    "title": "Lecture 4.1",
+    "section": "SIGI Map",
+    "text": "SIGI Map\n\nSource: OECD SIGI"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#explore-sigi",
+    "href": "slides/lecture-4.1.html#explore-sigi",
+    "title": "Lecture 4.1",
+    "section": "Explore SIGI",
+    "text": "Explore SIGI\n\nGo to SIGI Policy Simulator\nChoose a region\nChoose a country\n\nHow does your country rank relative to others in the region?\n\nSelect “View table”\n\nCompare to best country in the region\nWhat changes need to be made for your country to achieve similar score?"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#what-causes-economic-growth",
+    "href": "slides/lecture-4.1.html#what-causes-economic-growth",
+    "title": "Lecture 4.1",
+    "section": "What Causes Economic Growth?",
+    "text": "What Causes Economic Growth?\nMankiw, Romer & Weil:\n\\[Y(t) = K(t)^{\\alpha}H(t)^{\\beta}(A(t)L(t))^{1-\\alpha-\\beta}\\]\nwhere \\(Y\\) = output, \\(t\\) = time, \\(K\\) = capital, \\(L\\) = labor, \\(A\\) = labor-augmenting technology (knowledge), and \\(H\\) = human capital (education and training, e.g. productivity)."
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#women-and-growth",
+    "href": "slides/lecture-4.1.html#women-and-growth",
+    "title": "Lecture 4.1",
+    "section": "Women and Growth",
+    "text": "Women and Growth\n\nWomen are especially important for \\(L\\) and \\(H\\)\n\nConstitute half of labor force\nServe as primary caregivers\n\nResponsible for health and well-being of children\nMother’s education directly impacts that of girls\n\n\nImportant questions\n\nAre women educated?\nAre they able to work?"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#the-demographic-dividend",
+    "href": "slides/lecture-4.1.html#the-demographic-dividend",
+    "title": "Lecture 4.1",
+    "section": "The Demographic Dividend",
+    "text": "The Demographic Dividend\n\n\n\n\n\n\nWomen’s participation in the labor force is especially important in low- and middle-income countries, where the working-age population is large relative to the total population."
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#the-dependency-ratio",
+    "href": "slides/lecture-4.1.html#the-dependency-ratio",
+    "title": "Lecture 4.1",
+    "section": "The Dependency Ratio",
+    "text": "The Dependency Ratio\n\n\n\n\n\n\n\nHowever, women may be disincentivized from participating in the workforce due to their traditional household responsibilities.\nDependency Ratio = (non-working-age pop/working-age pop)*100\nMeasures the economic burden of those outside of the labor force on those who are working\nAffected by fertility and aging\n\nBoth bring down women’s LFPR because of women’s caregiving role"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#burden-of-older-population",
+    "href": "slides/lecture-4.1.html#burden-of-older-population",
+    "title": "Lecture 4.1",
+    "section": "Burden of Older Population",
+    "text": "Burden of Older Population"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#burden-of-younger-population",
+    "href": "slides/lecture-4.1.html#burden-of-younger-population",
+    "title": "Lecture 4.1",
+    "section": "Burden of Younger Population",
+    "text": "Burden of Younger Population"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#global-trend-in-flfp",
+    "href": "slides/lecture-4.1.html#global-trend-in-flfp",
+    "title": "Lecture 4.1",
+    "section": "Global Trend in FLFP",
+    "text": "Global Trend in FLFP\n\n\n\n\n\n\nSo what do the overall trends in FLFP look like? FLFP has been declining over the last 30 years."
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#flfp-map",
+    "href": "slides/lecture-4.1.html#flfp-map",
+    "title": "Lecture 4.1",
+    "section": "FLFP Map",
+    "text": "FLFP Map\n\n\n\n\n\n\nBut there are some interesting regional patterns. What do you see in this graph?"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#development-and-flfp",
+    "href": "slides/lecture-4.1.html#development-and-flfp",
+    "title": "Lecture 4.1",
+    "section": "Development and FLFP",
+    "text": "Development and FLFP\n\n\n\n\n\n\n\n\nWe might expect FLFP to be monotonically increasing with wealth…but instead we see high levels of FLFP in low-income countries and high income countries, but lower participation in middle income countries, especially in the MENA region and S. Asia.\nWhy would this be the case?\nDiscuss with a neighbor\nDiscuss the sectoral composition of the economy; what do various sectors demand of women?"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#women-and-agriculture",
+    "href": "slides/lecture-4.1.html#women-and-agriculture",
+    "title": "Lecture 4.1",
+    "section": "Women and Agriculture",
+    "text": "Women and Agriculture"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#total-fertility-rates",
+    "href": "slides/lecture-4.1.html#total-fertility-rates",
+    "title": "Lecture 4.1",
+    "section": "Total Fertility Rates",
+    "text": "Total Fertility Rates\n\n\n\n\n\n\nTotal Fertility Rate (TFR): The average number of children a woman can expect to bear over her lifetime given current age-specific fertility rates - Education important for bringing down TFRs - Gets women into workforce - Breaks cycle of continuous childbearing and child-rearing - In agricultural economies, women are mostly working in the fields and taking care of kids and don’t require a high degree of education, not breaking out of this cycle. - Whereas in industry and service-based economies the incentives are different. - However, patriarchal norms can still hold women, and thus development back. Countries can get stuck in a low-level equilibrium of low labor-force participation that in turn contributes to lower growth."
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#female-political-represenation",
+    "href": "slides/lecture-4.1.html#female-political-represenation",
+    "title": "Lecture 4.1",
+    "section": "Female Political Represenation",
+    "text": "Female Political Represenation"
+  },
+  {
+    "objectID": "slides/lecture-4.1.html#discussion",
+    "href": "slides/lecture-4.1.html#discussion",
+    "title": "Lecture 4.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nHessani and Fonseca\nExplanations for low representation\n\nWhich is most convincing?\n\nConsequences\n\nDo women have different preferences and priorities?\nDo women make different policy choices?\nHow do women improve the quality of institutions?\n\nWomen’s empowerment\n\nAre there spillover effects?\n\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-4.2.html#format-etc.",
+    "href": "slides/lecture-4.2.html#format-etc.",
+    "title": "Lecture 4.2",
+    "section": "Format, etc.",
+    "text": "Format, etc.\n\nFormat\n\nmultiple choice\nT/F explanation\nEssay\n\nTime\n\n1hr 30 mins.\n\nOpen book/open note"
+  },
+  {
+    "objectID": "slides/lecture-4.2.html#topics",
+    "href": "slides/lecture-4.2.html#topics",
+    "title": "Lecture 4.2",
+    "section": "Topics",
+    "text": "Topics\n\nPolanyi\nInstitutions and development\nModernization theory\nBacksliding\nResource curse\nWomen’s empowerment"
+  },
+  {
+    "objectID": "slides/lecture-4.2.html#prep",
+    "href": "slides/lecture-4.2.html#prep",
+    "title": "Lecture 4.2",
+    "section": "Prep",
+    "text": "Prep\n\nIn-class exercise questions\nUse slides/notes as guide to reviewing readings\n\nStudy main points\n\nFactile game\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#what-is-a-developing-country",
+    "href": "slides/lecture-5.1.html#what-is-a-developing-country",
+    "title": "Lecture 5.1",
+    "section": "What is a “Developing Country?”",
+    "text": "What is a “Developing Country?”\n\nWorld Bank Income Thresholds (GNI per capita, current US$)\n\nLow-income: $1,045 or less\nLower middle-income: $1,046 - $4,095\nUpper middle-income: $4,096 - $12,695\nHigh income: > $12,696\n\nCountries that are still making rapid strides in terms of economic and human development"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#map-of-income-classifications-2020",
+    "href": "slides/lecture-5.1.html#map-of-income-classifications-2020",
+    "title": "Lecture 5.1",
+    "section": "Map of Income Classifications (2020)",
+    "text": "Map of Income Classifications (2020)"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#what-is-development-1",
+    "href": "slides/lecture-5.1.html#what-is-development-1",
+    "title": "Lecture 5.1",
+    "section": "What is Development?",
+    "text": "What is Development?\n\nEconomic Development: change in overall levels of wealth (growth)\n\n% increase in GDP or GDP per capita\n\nHuman Development: change in overall levels of well-being\n\nLife expectancy\nLiteracy\nInfant mortality"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#development-as-freedom-sen",
+    "href": "slides/lecture-5.1.html#development-as-freedom-sen",
+    "title": "Lecture 5.1",
+    "section": "Development as Freedom (Sen)",
+    "text": "Development as Freedom (Sen)\n\nPoverty is “capability deprivation”\nGovernments promote development when they enhance capabilities, in turn promoting freedom"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#participatory-developmentinclusive-growth",
+    "href": "slides/lecture-5.1.html#participatory-developmentinclusive-growth",
+    "title": "Lecture 5.1",
+    "section": "Participatory Development/Inclusive Growth",
+    "text": "Participatory Development/Inclusive Growth\n\nEducation and health care produce a more competitive labor force (human capital)\nFacilitates investment in industry\nLeads to broad-based “participatory” industrialization"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#sustainable-development",
+    "href": "slides/lecture-5.1.html#sustainable-development",
+    "title": "Lecture 5.1",
+    "section": "Sustainable Development",
+    "text": "Sustainable Development\n\nMinimizing impact on environment\nAvoiding depletion of natural resources\nConsidering impact of development on future generations"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#what-is-distributive-politics",
+    "href": "slides/lecture-5.1.html#what-is-distributive-politics",
+    "title": "Lecture 5.1",
+    "section": "What is “Distributive Politics”?",
+    "text": "What is “Distributive Politics”?\n\nThe politics of how public goods and services are distributed\n\nKey to human development\nSome countries do better than others\n\nAKA “the politics of public service provisioning”"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#stokes-et.-al.two-main-modes",
+    "href": "slides/lecture-5.1.html#stokes-et.-al.two-main-modes",
+    "title": "Lecture 5.1",
+    "section": "Stokes et. al.–two main modes",
+    "text": "Stokes et. al.–two main modes\n\nProgrammatic\n\nDistribution criteria are public\nCriteria shape distribution of resources\n\nNonprogrammatic\n\nDistribution criteria not made public, or distribution influenced by private, partisan criteria"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#programmatic-vs.-nonprogrammatic-distribution",
+    "href": "slides/lecture-5.1.html#programmatic-vs.-nonprogrammatic-distribution",
+    "title": "Lecture 5.1",
+    "section": "Programmatic vs. Nonprogrammatic Distribution",
+    "text": "Programmatic vs. Nonprogrammatic Distribution\n\nSource: Stokes et. al. Brokers, Voters, and Clientelism"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#stokes-et.-al.-examples-each-group-take-1",
+    "href": "slides/lecture-5.1.html#stokes-et.-al.-examples-each-group-take-1",
+    "title": "Lecture 5.1",
+    "section": "Stokes et. al. examples (each group take 1)",
+    "text": "Stokes et. al. examples (each group take 1)\n\nProgressa/Oportunidades\nEmergency Food Aid, Argentina\nLa Efectiva, Mexico\nHousing Improvement Program, Singapore"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#questions",
+    "href": "slides/lecture-5.1.html#questions",
+    "title": "Lecture 5.1",
+    "section": "Questions",
+    "text": "Questions\n\nWhat are characteristics of program in terms of:\n\nCriteria for distribution\nLinkages to electoral support\n\nIs the program “clientelist”?\nIs there anything like it in the U.S.?"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#who-are-brokers",
+    "href": "slides/lecture-5.1.html#who-are-brokers",
+    "title": "Lecture 5.1",
+    "section": "Who are brokers?",
+    "text": "Who are brokers?\n\nMiddlemen, brokers, local political bosses\nInform politicians what voters want/need\nProvide information to and mobilize voters\ne.g. caciques (Mexico), dalal (India), tim sukses (Indonesia)"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#problems-with-brokers",
+    "href": "slides/lecture-5.1.html#problems-with-brokers",
+    "title": "Lecture 5.1",
+    "section": "Problems with brokers",
+    "text": "Problems with brokers\n\nHave their own agenda/ambitions\nCan do “misguided” or unexpected things\n\nmisuse of party funds/gifts\n\nloyalty\nrunning thier own campaigns"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#geography-of-clientelism",
+    "href": "slides/lecture-5.1.html#geography-of-clientelism",
+    "title": "Lecture 5.1",
+    "section": "Geography of Clientelism",
+    "text": "Geography of Clientelism"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#discussion",
+    "href": "slides/lecture-5.1.html#discussion",
+    "title": "Lecture 5.1",
+    "section": "Discussion",
+    "text": "Discussion\n\nAre programmatic modes better for development than non-programmatic modes?\n\nIs one or the other more efficient?\nIs one or the other more ethical?\nAre brokers helpful or harmful from a developmental standpoint?\n\nIn your opinion, why might countries eventually shift to programmatic modes?"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#wealth-and-clientelism",
+    "href": "slides/lecture-5.1.html#wealth-and-clientelism",
+    "title": "Lecture 5.1",
+    "section": "Wealth and Clientelism",
+    "text": "Wealth and Clientelism"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#changes-over-time",
+    "href": "slides/lecture-5.1.html#changes-over-time",
+    "title": "Lecture 5.1",
+    "section": "Changes Over Time",
+    "text": "Changes Over Time"
+  },
+  {
+    "objectID": "slides/lecture-5.1.html#conclusion-1",
+    "href": "slides/lecture-5.1.html#conclusion-1",
+    "title": "Lecture 5.1",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nDevelopment\n\nEconomic, human\n\nDistributive politics\n\nProgrammatic\nNonprogrammatic\nBrokers\n\nImplications\n\nClientelism declines with wealth\nBut changes slow to occur\n\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#what-is-a-public-good",
+    "href": "slides/lecture-5.2.html#what-is-a-public-good",
+    "title": "Lecture 5.2",
+    "section": "What is a Public Good?",
+    "text": "What is a Public Good?\n\nNon-excludable: can’t restrict use once provided\nNon-rival (jointly supplied): once available, can be consumed by others at no additional cost\nOpposite of a private good, distinct from “club goods” and “common pool resources”"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#examples",
+    "href": "slides/lecture-5.2.html#examples",
+    "title": "Lecture 5.2",
+    "section": "Examples",
+    "text": "Examples"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#relevance",
+    "href": "slides/lecture-5.2.html#relevance",
+    "title": "Lecture 5.2",
+    "section": "Relevance",
+    "text": "Relevance\n\nPublic goods associated with programmatic politics\nClientelism associated with club goods and private benefits"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#geography-of-clientelism",
+    "href": "slides/lecture-5.2.html#geography-of-clientelism",
+    "title": "Lecture 5.2",
+    "section": "Geography of Clientelism",
+    "text": "Geography of Clientelism\n\n\n\n\n\n\n\n\nOn the whole SE Asia is pretty clientelistic, but there are some bright spots in terms of social programs.\nLets take a moment to explore some of these."
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#embedded-liberalism",
+    "href": "slides/lecture-5.2.html#embedded-liberalism",
+    "title": "Lecture 5.2",
+    "section": "Embedded Liberalism",
+    "text": "Embedded Liberalism\n\nEmbedded liberalism: spending on social programs to generate and maintain popular support for liberal economic policies\n1990s—emphasis on neoliberal “Washington Consensus” policies\n\nGet the macroeconomics right, rest will follow\n“Trickle down” economics\n\nThis consensus was challenged by Asian Financial Crisis of 1997"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#asian-financial-crisis",
+    "href": "slides/lecture-5.2.html#asian-financial-crisis",
+    "title": "Lecture 5.2",
+    "section": "Asian Financial Crisis",
+    "text": "Asian Financial Crisis\n\nShowed that even in rapidly growing region, poor remained vulnerable to economic shocks\nIn Indonesia, half the population was vulnerable to food price shocks and rising unemployment\nSince the turn of millennium, policymakers have focused on building safety nets for the vulnerable\nShift in thinking affected policy affected almost every region: Latin America, Africa, South and SE Asia"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#welfare-states-in-developing-countries",
+    "href": "slides/lecture-5.2.html#welfare-states-in-developing-countries",
+    "title": "Lecture 5.2",
+    "section": "Welfare States in Developing Countries",
+    "text": "Welfare States in Developing Countries\n\nNoncontributory social assistance\n\nDirect transfers, frequently conditional\n\nSocial insurance\n\nProtection against loss of employment\n\nHealth care schemes\nLabor market policies\n\nMinimum wage, terms and conditions of work, resolution of industrial disputes, etc.\n\nEducation spending"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#southeast-asia-examples",
+    "href": "slides/lecture-5.2.html#southeast-asia-examples",
+    "title": "Lecture 5.2",
+    "section": "Southeast Asia Examples",
+    "text": "Southeast Asia Examples\n\nMalaysia\n\nUniversal healthcare alongside private system\nFree primary and junior secondary education\n\nThailand\n\n“30-bhat scheme”\nFree education through secondary school"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#section",
+    "href": "slides/lecture-5.2.html#section",
+    "title": "Lecture 5.2",
+    "section": "",
+    "text": "Indonesia\n\nJaminan Kesehatan Nasional (JKN)\nUniversal healthcare scheme introduced in 2014\nCovers > 200 million people, largest single payer scheme in the world (Augustina et. al. 2019)"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#discussion",
+    "href": "slides/lecture-5.2.html#discussion",
+    "title": "Lecture 5.2",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat is a “success team”?\nHow does clientelism in Indonesia differ from clientelism in Latin America?\n\nWhat changed in 1999?\n\nWhat is a “ground war” and how is it fought?\nWhen is vote buying successful? What does it achieve?"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#closed-and-open-list-pr",
+    "href": "slides/lecture-5.2.html#closed-and-open-list-pr",
+    "title": "Lecture 5.2",
+    "section": "Closed and Open-list PR",
+    "text": "Closed and Open-list PR\n\nPR versus SMD\nClosed-list PR (most systems)\n\nParty controls who is on list, and ranking of candidates\nGenerates loyalty to party\n\nOpen-list PR (Indonesia)\n\nVote for individuals not parties\nCandidates with most votes get seats"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#ballot-example",
+    "href": "slides/lecture-5.2.html#ballot-example",
+    "title": "Lecture 5.2",
+    "section": "Ballot Example",
+    "text": "Ballot Example\n\n2014 DPR (People’s Representative Council) ballot for Bali. One punch for party and one for a candidate"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#election-results",
+    "href": "slides/lecture-5.2.html#election-results",
+    "title": "Lecture 5.2",
+    "section": "Election Results",
+    "text": "Election Results\n\nSource: Aspinall, 2014"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#tim-sukses",
+    "href": "slides/lecture-5.2.html#tim-sukses",
+    "title": "Lecture 5.2",
+    "section": "Tim Sukses",
+    "text": "Tim Sukses\n\n“Success teams”\nImportant due to general weakness of parties\nHierarchical, pyramid-like structures\nBrokers are notoriously unreliable\n\nPredation, defection, duplicity"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#effectiveness",
+    "href": "slides/lecture-5.2.html#effectiveness",
+    "title": "Lecture 5.2",
+    "section": "Effectiveness",
+    "text": "Effectiveness\n\nBase areas\n\nTim sukses, vote buying more effective\nBut required to stay relevant\n\nIn non-base areas\n\nCommunity gifts and become more important\nSuccess depends on influence of community leaders\nQuid pro quo is expected but difficult to enforce"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#comparisons",
+    "href": "slides/lecture-5.2.html#comparisons",
+    "title": "Lecture 5.2",
+    "section": "Comparisons",
+    "text": "Comparisons\n\nArgentina\nIndia\n\nNorth vs. South\n\nSub-Saharan Africa\n\nSimilar variation\n\nHypothesis: clientelism is stronger where parties are weaker"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#geography-of-clientelism-1",
+    "href": "slides/lecture-5.2.html#geography-of-clientelism-1",
+    "title": "Lecture 5.2",
+    "section": "Geography of Clientelism",
+    "text": "Geography of Clientelism"
+  },
+  {
+    "objectID": "slides/lecture-5.2.html#conclusion-1",
+    "href": "slides/lecture-5.2.html#conclusion-1",
+    "title": "Lecture 5.2",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nPublic goods\nSocial spending in SE Asia\nIndonesia case\n\nElectoral system\nVote-buying vs. club goods\nSuccess of clientelist strategies\n\nDiscussion/Q&A\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#collective-action-and-public-goods",
+    "href": "slides/lecture-6.1.html#collective-action-and-public-goods",
+    "title": "Lecture 6.1",
+    "section": "Collective Action and Public Goods",
+    "text": "Collective Action and Public Goods\n\nBecause they are non-excludable, public goods and common pool resources threatened by collective action problems (CAPs)\n\nPublic goods = socially beneficial\nIndividuals have incentives to free-ride\n\nTragedy of the commons\n\nLarge-scale illustration of collective action problem\n\nPrisoner’s dilemma\n\nSmall-scale illustration of collective action problem"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#diversity-and-public-provisioning",
+    "href": "slides/lecture-6.1.html#diversity-and-public-provisioning",
+    "title": "Lecture 6.1",
+    "section": "Diversity and Public Provisioning",
+    "text": "Diversity and Public Provisioning\n\nMacro-level studies find a robust negative correlation between ethnic heterogeneity and public goods provisioning\n\nSeminal study: Alesina, Baqir, and Easterly 1999\n\nMicro-level studies find that shared identity promotes collective action among “coethnics,” and prevents cooperation among “non-coethnics”\nWhat explains this relationship? What links ethnic diversity and public goods provisioning?"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#the-central-issue",
+    "href": "slides/lecture-6.1.html#the-central-issue",
+    "title": "Lecture 6.1",
+    "section": "The Central Issue",
+    "text": "The Central Issue\n\n\n\n\n\nEthnicity turns public goods into club goods\nCollective action occurring at the level of the ethnic group, not at the level of society as a whole"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#selective-incentives",
+    "href": "slides/lecture-6.1.html#selective-incentives",
+    "title": "Lecture 6.1",
+    "section": "1. Selective Incentives",
+    "text": "1. Selective Incentives\n\nCollective action is more likely with the right set of incentives\n“Selective incentives” are incentives targeted at individuals to make participation advantageous and non-participation disadvantageous (Olson)\n\nInducements–positive incentives\nConstraints–negative incentives\n\nEthnic groups may be better at devising and applying selective incentives than other groups or institutions\n\nExpectations of reciprocity\nAbility to sanction through informal institutions"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#size-of-groups",
+    "href": "slides/lecture-6.1.html#size-of-groups",
+    "title": "Lecture 6.1",
+    "section": "2. Size of Groups",
+    "text": "2. Size of Groups\n\nCoordination problems are even bigger among large groups (Olson)\n\n“Action taking groups” tend to be much smaller than “non-action taking groups”\nExamples: committees in Congress, partners in a small company, executives, lobbyists, unions\nVersus broad classes of people (working-class; citizens; shareholders in a large company)\n\nWhy? Distribution of gains versus costs of collective action\nEthnic groups are a smaller subset of society\n\nThus a more viable “action-taking” group\nThink here about public provisioning at the local (e.g. village) level"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#contract-theory",
+    "href": "slides/lecture-6.1.html#contract-theory",
+    "title": "Lecture 6.1",
+    "section": "3. Contract Theory",
+    "text": "3. Contract Theory\n\nBasic problem: when ‘a’ contracts with ‘b’, how does ‘a’ know that ‘b’ will follow through?\nIn developing countries, governments often lack enforcement capacity\nEthnic groups help overcome deficits of government institutions\n\nInformational shortcuts (e.g. “I trust her because she is from my community.”)\nBy compensating for reputation and trust deficits through dense social networks (e.g. “We are from the same village and people say that she is trustworthy.”)"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#explaining-variation",
+    "href": "slides/lecture-6.1.html#explaining-variation",
+    "title": "Lecture 6.1",
+    "section": "Explaining Variation",
+    "text": "Explaining Variation\n\nCorrelation between ethnic diversity and service provisioning is not absolute\nWe see substantial cross-national variation in how much ethnicity matters\nWe also see lots of sub-national variation\nHow do we explain this variation?"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#subnationalism",
+    "href": "slides/lecture-6.1.html#subnationalism",
+    "title": "Lecture 6.1",
+    "section": "Subnationalism",
+    "text": "Subnationalism\n\n\n\n\n\nSingh, 2015\n\n\n\n\nSubnationalism: a form of group identification based on language or regional culture\nSubnational identity increases public support for collective welfare\nElites then push for social services\nState enacts social policy that promotes human development"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#encompassing-ethnic-parties",
+    "href": "slides/lecture-6.1.html#encompassing-ethnic-parties",
+    "title": "Lecture 6.1",
+    "section": "Encompassing Ethnic Parties",
+    "text": "Encompassing Ethnic Parties\n\n\n\n\n\nThachil and Teitelbaum, 2015\n\n\n\n\nNarrow Ethnic Parties\n\nSmall winning coalitions\nPolitics remains clientelistic\n\nEncompassing Ethnic Parties\n\nLarger winning coalitions\nMore social spending"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#sectarianism-cammett",
+    "href": "slides/lecture-6.1.html#sectarianism-cammett",
+    "title": "Lecture 6.1",
+    "section": "Sectarianism (Cammett)",
+    "text": "Sectarianism (Cammett)\n\n\n\nFuture movement vs. Hezbollah\n\nFuture movement provides benefits across sectarian lines\nWhereas Hezbollah favors coethnics\n\nKey reason is electoral mobilization\n\nFuture Movement prioritizes winning elections\nHezbollah prioritizes contentious politics (protests, demonstrations, or warfare)\n\n\n\n\n\n\nSource: Wikimedia commons"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#miguel-study",
+    "href": "slides/lecture-6.1.html#miguel-study",
+    "title": "Lecture 6.1",
+    "section": "Miguel Study",
+    "text": "Miguel Study\n\nSo far we have talked about how structural factors condition effects of ethnicity on service provisioning.\nCan governments choose to alter incentives if they want to?\nTanzania vs. Kenya\n\nWhich country does a better job of managing ethnic diversity?\nWhat is the evidence of this?\n\nHow do Tanzania and Kenya approach diversity differently?\n\nWhy is one more successful than the other?\nAre there lessons for other countries?"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#which-mechanisms-are-relevant",
+    "href": "slides/lecture-6.1.html#which-mechanisms-are-relevant",
+    "title": "Lecture 6.1",
+    "section": "Which Mechanisms Are Relevant?",
+    "text": "Which Mechanisms Are Relevant?\n\nHabyarimana et. al., 2007"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#four-types-of-games",
+    "href": "slides/lecture-6.1.html#four-types-of-games",
+    "title": "Lecture 6.1",
+    "section": "Four Types of Games",
+    "text": "Four Types of Games\n\nDictator game\n\n500 shilling (2 coins)\n\nDetermines who is “egoist”\n\n100 shilling (10 coins)\nDistribute to coethnics and non-coethnics\nAnonymous and non-anonymous\n\nLockbox game\n\nWork together to open lock\n\nPuzzle game\n\nWork together to solve puzzle\n\nNetwork game\n\nFind and receive message from person"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#dictator-game-non-anonymous",
+    "href": "slides/lecture-6.1.html#dictator-game-non-anonymous",
+    "title": "Lecture 6.1",
+    "section": "Dictator Game (non-anonymous)",
+    "text": "Dictator Game (non-anonymous)\n\nHabyarimana et. al., 2007"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#dictator-game-anonymous",
+    "href": "slides/lecture-6.1.html#dictator-game-anonymous",
+    "title": "Lecture 6.1",
+    "section": "Dictator Game (anonymous)",
+    "text": "Dictator Game (anonymous)\n\nHabyarimana et. al., 2007"
+  },
+  {
+    "objectID": "slides/lecture-6.1.html#basic-findings",
+    "href": "slides/lecture-6.1.html#basic-findings",
+    "title": "Lecture 6.1",
+    "section": "Basic Findings",
+    "text": "Basic Findings\n\nNo evidence of preference mechanisms\nWeak evidence of technology mechanisms\nStronger evidence of strategy selection mechanisms\n“Egoists” give to coethnics in non-anonymous game\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#definitions",
+    "href": "slides/lecture-6.2.html#definitions",
+    "title": "Lecture 6.2",
+    "section": "Definitions",
+    "text": "Definitions\n\nPoverty–a lack of money, material possessions or means\n\nIncome-based approach (World Bank)\nCapabilities approach (Amartya Sen)\n\nInequality–the unequal distribution of wealth and opportunity in a society"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#measuring-poverty",
+    "href": "slides/lecture-6.2.html#measuring-poverty",
+    "title": "Lecture 6.2",
+    "section": "Measuring Poverty",
+    "text": "Measuring Poverty\n\n“Headcount ratio”\n\nPercentage of population below a poverty line\nAssociated with income-based approach\n\nMultidimensional poverty index\n\nAssociated with capabilities approach\nMeasures “intensity” of poverty, not just frequency\nIncorporates health care, education and living standards"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#extreme-moderate-and-relative-poverty-sachs",
+    "href": "slides/lecture-6.2.html#extreme-moderate-and-relative-poverty-sachs",
+    "title": "Lecture 6.2",
+    "section": "Extreme, Moderate and Relative Poverty (Sachs)",
+    "text": "Extreme, Moderate and Relative Poverty (Sachs)\n\nExtreme poverty or “absolute poverty”\n\nCannot meet basic survival needs\n\nModerate poverty\n\nBasic needs are just barely met\n\nRelative poverty\n\nLack access to tools for upward social mobility\nApplies mainly to high income countries (Sachs 2005)"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#poverty-lines-per-day-2017-ppp",
+    "href": "slides/lecture-6.2.html#poverty-lines-per-day-2017-ppp",
+    "title": "Lecture 6.2",
+    "section": "Poverty Lines ($ per day 2017 PPP)",
+    "text": "Poverty Lines ($ per day 2017 PPP)\n\nExtreme poverty: $2.15\nLMIC threshold: $3.65\nUMIC threshold: $6.85"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#extreme-poverty",
+    "href": "slides/lecture-6.2.html#extreme-poverty",
+    "title": "Lecture 6.2",
+    "section": "Extreme Poverty",
+    "text": "Extreme Poverty"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#regional-trends-in-extreme-poverty",
+    "href": "slides/lecture-6.2.html#regional-trends-in-extreme-poverty",
+    "title": "Lecture 6.2",
+    "section": "Regional Trends in Extreme Poverty",
+    "text": "Regional Trends in Extreme Poverty"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#lmic-threshold",
+    "href": "slides/lecture-6.2.html#lmic-threshold",
+    "title": "Lecture 6.2",
+    "section": "LMIC Threshold",
+    "text": "LMIC Threshold"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#umic-threshold",
+    "href": "slides/lecture-6.2.html#umic-threshold",
+    "title": "Lecture 6.2",
+    "section": "UMIC Threshold",
+    "text": "UMIC Threshold"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#global-trends-at-different-thresholds",
+    "href": "slides/lecture-6.2.html#global-trends-at-different-thresholds",
+    "title": "Lecture 6.2",
+    "section": "Global Trends at Different Thresholds",
+    "text": "Global Trends at Different Thresholds"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#multidimensional-poverty",
+    "href": "slides/lecture-6.2.html#multidimensional-poverty",
+    "title": "Lecture 6.2",
+    "section": "Multidimensional Poverty",
+    "text": "Multidimensional Poverty"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#u.s.-extreme-poverty",
+    "href": "slides/lecture-6.2.html#u.s.-extreme-poverty",
+    "title": "Lecture 6.2",
+    "section": "U.S. Extreme Poverty",
+    "text": "U.S. Extreme Poverty\n\n\n\n\n\nAngus Deaton\n\n“The U.S. Can No Longer Hide from Its Deep Poverty Problem”\n$4/day poverty line\n\nLife expectancy of poorest Americans less than Bangladesh or Vietnam\nHealth indicators declining, not getting better"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#discussion",
+    "href": "slides/lecture-6.2.html#discussion",
+    "title": "Lecture 6.2",
+    "section": "Discussion",
+    "text": "Discussion\n\nGo to Gapminder Dollar Street\nPick a family\nWhere do they fall on the poverty scale?\n\nExtreme\nModerate\nRelative\nNot poor\n\nWhat would be the biggest challenge of living like that family?"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#inequality-trends",
+    "href": "slides/lecture-6.2.html#inequality-trends",
+    "title": "Lecture 6.2",
+    "section": "Inequality Trends",
+    "text": "Inequality Trends"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#poverty-trends",
+    "href": "slides/lecture-6.2.html#poverty-trends",
+    "title": "Lecture 6.2",
+    "section": "Poverty Trends",
+    "text": "Poverty Trends"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#health-spending",
+    "href": "slides/lecture-6.2.html#health-spending",
+    "title": "Lecture 6.2",
+    "section": "Health Spending",
+    "text": "Health Spending"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#education-spending",
+    "href": "slides/lecture-6.2.html#education-spending",
+    "title": "Lecture 6.2",
+    "section": "Education Spending",
+    "text": "Education Spending"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#key-concepts",
+    "href": "slides/lecture-6.2.html#key-concepts",
+    "title": "Lecture 6.2",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nISI (Import substitution industrialization)\nFormal and informal sector workers\nContributory benefits, e.g. traditional pensions\nNoncontributory benefits\n\nCCT (conditional cash transfer)\nNCP (non-contributory pensions)"
+  },
+  {
+    "objectID": "slides/lecture-6.2.html#kaufman-and-haggard",
+    "href": "slides/lecture-6.2.html#kaufman-and-haggard",
+    "title": "Lecture 6.2",
+    "section": "Kaufman and Haggard",
+    "text": "Kaufman and Haggard\n\nWhat is easy vs. hard redistribution?\nWhat do they want to explain?\nCompeting explanations\n\nElectoral competition\nDeindustrialization\nPartisan ideology\n\nWhat is their explanation?\nCome up with one good question about the reading\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#policy-prescriptions",
+    "href": "slides/lecture-7.1.html#policy-prescriptions",
+    "title": "Lecture 7.1",
+    "section": "10 Policy Prescriptions",
+    "text": "10 Policy Prescriptions\n\nFiscal discipline\nPublic expenditure (investment vs consumption)\nTax reform (expand tax base, cut marginal rates)\nFinancial liberalization\nCompetitive exchange rates\nTrade liberalization\nForeign direct investment (remove barriers)\nPrivatization of state-owned enterprises\nDeregulation of markets\nSecure property rights"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#elements-of-an-economic-crisis",
+    "href": "slides/lecture-7.1.html#elements-of-an-economic-crisis",
+    "title": "Lecture 7.1",
+    "section": "Elements of an Economic Crisis",
+    "text": "Elements of an Economic Crisis\n\nRecession\n\nLow or negative growth rates\nHigh unemployment\n\nHyperinflation & shortages\n\nGovernment prints money to cover debts\nHoarding\n\nBalance of payments crisis\n\nSudden stops or reversals of capital inflows\n\nDebt crisis\n\nProliferation of public debt relative to GDP\n\nFinancial crisis\n\nAssets bubbles"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#causes-of-crisis-neoliberal-diagnosis",
+    "href": "slides/lecture-7.1.html#causes-of-crisis-neoliberal-diagnosis",
+    "title": "Lecture 7.1",
+    "section": "Causes of Crisis (Neoliberal Diagnosis)",
+    "text": "Causes of Crisis (Neoliberal Diagnosis)\n\n“Bloated” public sector\n\nInefficient/wasteful\nCrowds out private sector investment\n\nCorruption\n\nDeters investment generally\n\nOver-regulation of private sector\n\nImpedes expansion of formal sector\n\nGovernment spending and debt\n\nDrives inflation"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#economic-organization-under-communism",
+    "href": "slides/lecture-7.1.html#economic-organization-under-communism",
+    "title": "Lecture 7.1",
+    "section": "Economic Organization Under Communism",
+    "text": "Economic Organization Under Communism\n\nCentralized planning\n\nBureaucratically established quotas and targets\nNo market dynamics of supply and demand\n\nKey economic goals\n\nFull employment\nState ownership and control\n\nInternational isolation/autarchy"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#pitfalls-of-central-planning",
+    "href": "slides/lecture-7.1.html#pitfalls-of-central-planning",
+    "title": "Lecture 7.1",
+    "section": "Pitfalls of Central Planning",
+    "text": "Pitfalls of Central Planning\n\nInformation\n\nNo price mechanisms\nGovernment is not omniscient\nNo way to regulate supply and demand\nBarter economy, black markets and shortages\n\nPerverse incentives\n\nNo profit-maximizing behavior\nLack of innovation\nSoft budget constraints in public sector: waste, theft, poor quality of goods"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#adverse-results",
+    "href": "slides/lecture-7.1.html#adverse-results",
+    "title": "Lecture 7.1",
+    "section": "Adverse Results",
+    "text": "Adverse Results\n\n\n\nWidespread theft and embezzlement of state property\nCentralized planning system stops working\nEscalating inflation because counties keep printing money\nMass shortages of even basic goods\n\n\n\n\n\nBreadline in the USSR"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#indias-economic-system",
+    "href": "slides/lecture-7.1.html#indias-economic-system",
+    "title": "Lecture 7.1",
+    "section": "India’s Economic System",
+    "text": "India’s Economic System\n\n“Nehruvian” industrial policy rather than central planning\nImport substitution\n\nProtection of domestic industry\nHigh tariffs\n\nMarket controls\n\n‘License-Quota Raj’\n\nDominance of the public sector\n\nLow quality goods\nShortages\nInefficiency\nEnd result: inflation and decreased trade"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#economic-crisis-1",
+    "href": "slides/lecture-7.1.html#economic-crisis-1",
+    "title": "Lecture 7.1",
+    "section": "1991 Economic Crisis",
+    "text": "1991 Economic Crisis\n\nProximate cause: balance of payments (BOP) crisis\nOccurs when the total amount of receipts is less than the amount of total payments\nCauses of crisis in India\n\nCollapse of Soviet Union (Trade)\nGulf War (Oil)\n\nCapital flight, speculative attack on credit, balance of payments and currency crisis"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#reform-1-stabilization",
+    "href": "slides/lecture-7.1.html#reform-1-stabilization",
+    "title": "Lecture 7.1",
+    "section": "Reform #1: Stabilization",
+    "text": "Reform #1: Stabilization\n\nGoal: prevent hyperinflation from escalating out of control\nAusterity regime meant to curb inflation\n\nReduce or halt public spending\nCurb public expectations\n\nDevalue currency\nRaise taxes and government revenue\nCan’t print money to solve the problem"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#reform-2-liberalization",
+    "href": "slides/lecture-7.1.html#reform-2-liberalization",
+    "title": "Lecture 7.1",
+    "section": "Reform #2: Liberalization",
+    "text": "Reform #2: Liberalization\n\nEnd price controls, production quotas, reservations, etc.\nEncourage foreign trade and investment\n\nReduce tariff barriers\nLift curbs on foreign direct investment\nGoals\n\nAttract real money, which is in short supply\nIncrease competition and innovation\nSpur investment in industry and high-end services"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#section",
+    "href": "slides/lecture-7.1.html#section",
+    "title": "Lecture 7.1",
+    "section": "",
+    "text": "Reduce state subsidies (expensive, interfere with market forces)\n\nCash, tax breaks, loan guarantees, procurement prices, stock purchases\nFarm, oil, housing, export, etc.\n\nFinancial sector reforms\n\nAllow private and foreign banks freedom to operate"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#reform-3-privatization",
+    "href": "slides/lecture-7.1.html#reform-3-privatization",
+    "title": "Lecture 7.1",
+    "section": "Reform #3: Privatization",
+    "text": "Reform #3: Privatization\n\nSelling off of state assets to private actors\nDevelop greater efficiency and increase output\n\nBetter managers\nBetter incentives\n\nCreate markets and entrepreneurs\nGenerate revenue for the state"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#reform-4-structural-adjustment",
+    "href": "slides/lecture-7.1.html#reform-4-structural-adjustment",
+    "title": "Lecture 7.1",
+    "section": "Reform #4: Structural Adjustment",
+    "text": "Reform #4: Structural Adjustment\n\nLong-term structural reform\n\nExtending neoliberal reforms\nReducing government role in economy\nLiberalizing factor markets\n\nLand, labor, capital\n\n\nThe ultimate goal is to boost productivity\n\nNot just removing price controls or privatizing\nMaking institutions growth-enhancing\n\nIndustrial policy, investment policy, governance, etc."
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#shock-therapy",
+    "href": "slides/lecture-7.1.html#shock-therapy",
+    "title": "Lecture 7.1",
+    "section": "“Shock Therapy”",
+    "text": "“Shock Therapy”\n\nQuick moves to stabilize the economy through an evolutionary approach\nGoal of remaking economies quickly\nInternationally-renowned teams experts sent to oversee reforms\nEastern Europe is a good example"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#gradualism",
+    "href": "slides/lecture-7.1.html#gradualism",
+    "title": "Lecture 7.1",
+    "section": "Gradualism",
+    "text": "Gradualism\n\nStep-by-step implementation of reforms\nPut correct political institutions in place before revamping the economy\n\nCourts, tax inspectors, regulatory agencies, and financial intermediaries\n\nAdvocated by other prominent economists (Joseph Stiglitz) and intellectuals\nIndia is a good example\n\nFast on trade, investment and license quota raj\nSlow on privatization, labor law and other contentious reforms"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#partial-reform-equilibrium",
+    "href": "slides/lecture-7.1.html#partial-reform-equilibrium",
+    "title": "Lecture 7.1",
+    "section": "“Partial Reform Equilibrium”",
+    "text": "“Partial Reform Equilibrium”\n\nWinners of early reforms blocked further progress:\n\nBenefited from access to legislation and coveted assets\nCreated a system in between capitalism and communism where a select few benefitted\n\nState Capture\n\nPowerful private interests asset control over both the economy and political decisions\nThink oligarchs!"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#businesses-corrupting-the-state",
+    "href": "slides/lecture-7.1.html#businesses-corrupting-the-state",
+    "title": "Lecture 7.1",
+    "section": "Businesses Corrupting the State",
+    "text": "Businesses Corrupting the State\n\nInnovative ways of wielding influence\n\nBuying laws outright\nRunning for elected office\nHiring the relatives of politicians\nMobilizing their workers to act politically"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#transition-progress-in-eastern-europe",
+    "href": "slides/lecture-7.1.html#transition-progress-in-eastern-europe",
+    "title": "Lecture 7.1",
+    "section": "Transition Progress in Eastern Europe",
+    "text": "Transition Progress in Eastern Europe\n\nEBRD TPI"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#growth-rates-in-india-and-china",
+    "href": "slides/lecture-7.1.html#growth-rates-in-india-and-china",
+    "title": "Lecture 7.1",
+    "section": "Growth Rates in India and China",
+    "text": "Growth Rates in India and China"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#poverty-and-inequality-in-india",
+    "href": "slides/lecture-7.1.html#poverty-and-inequality-in-india",
+    "title": "Lecture 7.1",
+    "section": "Poverty and Inequality in India",
+    "text": "Poverty and Inequality in India\n\n\n\n\n\nSource: oxfamblogs.org\n\n\n\n\n\n\nSource: Livemint"
+  },
+  {
+    "objectID": "slides/lecture-7.1.html#archibong-et.-al.",
+    "href": "slides/lecture-7.1.html#archibong-et.-al.",
+    "title": "Lecture 7.1",
+    "section": "Archibong et. al. ",
+    "text": "Archibong et. al. \n\nWhat is the main hypothesis?\nWhat reforms are they examining in the African context?\nQuantitative analysis\n\nWhat are they trying to show?\nIs it convincing\n\nCase studies, each group take one\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#discussion-1",
+    "href": "slides/lecture-7.2.html#discussion-1",
+    "title": "Lecture 7.2",
+    "section": "Discussion 1",
+    "text": "Discussion 1\n\nWhat does Benaría mean by the term “feminization of labor” How is it manifested in the following sectors/activities?\n\nManufacturing\nAgriculture\nServices\nMigration\nHuman Trafficking"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#discussion-2",
+    "href": "slides/lecture-7.2.html#discussion-2",
+    "title": "Lecture 7.2",
+    "section": "Discussion 2",
+    "text": "Discussion 2\n\nBenería identifies three potential effects of women’s employment on gender relations.\n\nLiberating\nIntensifying\nReconstitution of gender inequalities\n\nDescribe each of these. Which effect do you think is the strongest?"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#policy-models-1",
+    "href": "slides/lecture-7.2.html#policy-models-1",
+    "title": "Lecture 7.2",
+    "section": "Policy Models",
+    "text": "Policy Models\n\nWhat policies effectively increase women’s empowerment?\nThree (that we’ll consider)\n\nEmpowerment through development\nElectoral quotas\nEmpowerment through finance/microcredit\n\nTwo things to consider\n\nEffectiveness\nAttainability"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#development-and-empowerment-duflo",
+    "href": "slides/lecture-7.2.html#development-and-empowerment-duflo",
+    "title": "Lecture 7.2",
+    "section": "Development and Empowerment (Duflo)",
+    "text": "Development and Empowerment (Duflo)\n\nDiscussion\nDevelopment –> Empowerment\n\nHow does development empower women?\nIs development the solution to discrimination and VAW?\n\nEmpowerment –> Development\n\nWhat does Duflo mean by “empowerment”?\n\nIs empowering women the answer for development?"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#gender-quotas-beaman",
+    "href": "slides/lecture-7.2.html#gender-quotas-beaman",
+    "title": "Lecture 7.2",
+    "section": "Gender Quotas (Beaman)",
+    "text": "Gender Quotas (Beaman)\n\nDistricts randomly selected for reserved seats\nSome districts selected more than once\nBasic findings\n\nDistricts selected twice in a row see changes in how parents view daughters and how girls perceive themselves\nDistricts selected twice in a row see improvements in educational outcomes for girls\nNo effects on labor force participation and education outcomes for older women\n\nMechanisms:\n\nChanging policies (which changes beliefs)\nProviding role models"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#grameen-bank",
+    "href": "slides/lecture-7.2.html#grameen-bank",
+    "title": "Lecture 7.2",
+    "section": "Grameen Bank",
+    "text": "Grameen Bank\n\nMuhammad Yunus\n\nWinner of Nobel Peace Prize (and GW President’s Medal)\n\nInspired by stool makers of Jobra village\n\nEarned 2 cents per day\n\nSet up Grameen bank to fill credit void for rural women\nRepayment based on trust"
+  },
+  {
+    "objectID": "slides/lecture-7.2.html#discussion",
+    "href": "slides/lecture-7.2.html#discussion",
+    "title": "Lecture 7.2",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhich Model is Most Compelling?\n\nDevelopment\nGender Quotas\nMicrocredit\n\nWhy?\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#defining-populism",
+    "href": "slides/lecture-8.1.html#defining-populism",
+    "title": "Lecture 8.1",
+    "section": "Defining Populism",
+    "text": "Defining Populism\n\nWay of doing politics\nFour essential characteristics\n\nSpeaking directly to voters\nSpeaking as outsiders\nPitting ordinary people against elites\nPost-truth rhetoric"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#populism-vs.-neoliberalism",
+    "href": "slides/lecture-8.1.html#populism-vs.-neoliberalism",
+    "title": "Lecture 8.1",
+    "section": "Populism vs. Neoliberalism",
+    "text": "Populism vs. Neoliberalism\n\nEconomic views predate neoliberalism\nFocus on domestic rather than international markets\nAttack rights agenda of “mature” neoliberalism\nAttacks on the poor\nAuthoritarian tactics"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#increased-inequality",
+    "href": "slides/lecture-8.1.html#increased-inequality",
+    "title": "Lecture 8.1",
+    "section": "Increased Inequality",
+    "text": "Increased Inequality\n\nWithin countries\n\nTop 1%\nPrivatization\nTrade liberalization\nFlexible labor markets\n\nBetween countries\n\nWinners and losers\nEOI vs. ISI\n2008 financial crisis"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#social-policy",
+    "href": "slides/lecture-8.1.html#social-policy",
+    "title": "Lecture 8.1",
+    "section": "Social Policy",
+    "text": "Social Policy\n\nEmphasis on “service provisioning”\n\nInstead of welfare states\n\nProvisioning through private sector\n\noutsourcing\nNGOs\n\nLed to enrichment of public servants"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#individual-rights",
+    "href": "slides/lecture-8.1.html#individual-rights",
+    "title": "Lecture 8.1",
+    "section": "Individual Rights",
+    "text": "Individual Rights\n\nNew rights granted to women, minorities and the poor\nDone through elite bargains rather than social movements\nReflected in macro-agendas of International Orgs\n\n“Millenium Development Goals”\n“Sustainable Development Goals”\n\nLed to backlash among middle-class voters"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#country-cases",
+    "href": "slides/lecture-8.1.html#country-cases",
+    "title": "Lecture 8.1",
+    "section": "Country Cases",
+    "text": "Country Cases\n\nPhilippines\nUnited States\nBrazil\nHow did populist leaders in these countries harness resentments against women and minorities?"
+  },
+  {
+    "objectID": "slides/lecture-8.1.html#how-should-international-orgs-respond",
+    "href": "slides/lecture-8.1.html#how-should-international-orgs-respond",
+    "title": "Lecture 8.1",
+    "section": "How Should International Orgs Respond?",
+    "text": "How Should International Orgs Respond?\n\nShould we modify/abandon…\n\nMillennium Development Goals\nSustainable Development Goals\n\nShould reforms occur at a different pace?\nShould different economic policies be promoted?\n\nLess emphasis on openness?\nMore emphasis on redistribution?\nOther ideas?\n\n\n\n\n\nPSC 2339 Website"
+  },
+  {
+    "objectID": "slides/lecture-8.2.html#format-etc.",
+    "href": "slides/lecture-8.2.html#format-etc.",
+    "title": "Lecture 8.2",
+    "section": "Format, etc.",
+    "text": "Format, etc.\n\nFormat\n\nmultiple choice\nT/F explanation\nEssay\n\nTime\n\n1hr 30 mins.\n\nOpen book/open note"
+  },
+  {
+    "objectID": "slides/lecture-8.2.html#topics",
+    "href": "slides/lecture-8.2.html#topics",
+    "title": "Lecture 8.2",
+    "section": "Topics",
+    "text": "Topics\n\nProgrammatic politics vs. clientelism\nVote buying\nEthnicity and public goods\nDemocracy and redistribution\nWashington consensus reforms\nGendered legacy of reforms\nPopulism and social policy"
+  },
+  {
+    "objectID": "slides/lecture-8.2.html#prep",
+    "href": "slides/lecture-8.2.html#prep",
+    "title": "Lecture 8.2",
+    "section": "Prep",
+    "text": "Prep\n\nIn-class exercise questions\nUse slides/notes as guide to reviewing readings\n\nStudy main points\n\nFactile game\n\n\n\n\nPSC 2339 Website"
   },
   {
     "objectID": "weeks/week-1.html",
@@ -144,7 +2370,7 @@
     "href": "weeks/week-1.html#slides",
     "title": "Week 1",
     "section": "Slides",
-    "text": "Slides\n🖥️ Course overview\n🖥️ The economy and society\n\n\nBack to course schedule ⏎"
+    "text": "Slides\n🖥Polany’s Great Transformation\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-10.html",
@@ -186,14 +2412,14 @@
     "href": "weeks/week-11.html#slides",
     "title": "Week 11",
     "section": "Slides",
-    "text": "Slides\n🖥️ Unions and collective bargaining\n🖥️ Varieties of captialism\n\n\nBack to course schedule ⏎"
+    "text": "Slides\n🖥️ Unions and collective bargaining\n🖥️ Varieties of capitalism\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-12.html",
     "href": "weeks/week-12.html",
     "title": "Week 12",
     "section": "",
-    "text": "Important\n\n\n\n“Data Assignment 3: Working With Power BI” is due on November 20."
+    "text": "Important\n\n\n\n“Data Assignment 3: Working With Power BI” is due on November 20. [Cancelled–Data assignment 3 will be folded into final project assignment]"
   },
   {
     "objectID": "weeks/week-12.html#readings",
@@ -221,14 +2447,14 @@
     "href": "weeks/week-12.html#assignments",
     "title": "Week 12",
     "section": "Assignments",
-    "text": "Assignments\n🧮 Data Assignment 3: Working With Power BI\n\n\nBack to course schedule ⏎"
+    "text": "Assignments\n🧮 Data Assignment 3: Working With Power BI (Cancelled–will be folded into final project; details provided in class)\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-13.html",
     "href": "weeks/week-13.html",
     "title": "Week 13",
     "section": "",
-    "text": "Important\n\n\n\n“Project Assignment 2: White Paper” is due on Sunday, November 27"
+    "text": "Important\n\n\n\n“Project Assignment 2: White Paper” is due on Friday, December 2"
   },
   {
     "objectID": "weeks/week-13.html#assignments",
@@ -270,7 +2496,7 @@
     "href": "weeks/week-15.html#slides",
     "title": "Week 15",
     "section": "Slides",
-    "text": "Slides\n🖥️ Climate change and collective action"
+    "text": "Slides\n🖥️ Climate change and collective action (lecture cancelled)\nExam 3 Review (Factile game)"
   },
   {
     "objectID": "weeks/week-15.html#assignments",
@@ -298,7 +2524,7 @@
     "href": "weeks/week-2.html#slides",
     "title": "Week 2",
     "section": "Slides",
-    "text": "Slides\n🖥️ Institutions and development\n🖥️ Modernization theory\n\n\nBack to course schedule ⏎"
+    "text": "Slides\n🖥️ Institutions and Development\n🖥️ Modernization Theory\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-3.html",
@@ -333,7 +2559,7 @@
     "href": "weeks/week-3.html#assignments",
     "title": "Week 3",
     "section": "Assignments",
-    "text": "Assignments\n🧮 Data Assignment 1: Working With Data in Excel\n\n\nBack to course schedule ⏎"
+    "text": "Assignments\n🧮 Data Assignment 1\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-4.html",
@@ -410,7 +2636,14 @@
     "href": "weeks/week-6.html#slides",
     "title": "Week 6",
     "section": "Slides",
-    "text": "Slides\n🖥️ Ethnicity and public goods\n🖥️ Democracy and redistribution\n\n\nBack to course schedule ⏎"
+    "text": "Slides\n🖥️ Ethnicity and public goods\n🖥️ Democracy and redistribution"
+  },
+  {
+    "objectID": "weeks/week-6.html#videos",
+    "href": "weeks/week-6.html#videos",
+    "title": "Week 6",
+    "section": "Videos",
+    "text": "Videos\n📺 Bar chart video\n📺 Line chart video\n\n\nBack to course schedule ⏎"
   },
   {
     "objectID": "weeks/week-7.html",
@@ -441,6 +2674,13 @@
     "text": "Slides\n🖥️ Washington consensus reforms\n🖥️ The gendered legacy of reform"
   },
   {
+    "objectID": "weeks/week-7.html#videos",
+    "href": "weeks/week-7.html#videos",
+    "title": "Week 7",
+    "section": "Videos",
+    "text": "Videos\n📺 Scatter plot video\n📺 Map video"
+  },
+  {
     "objectID": "weeks/week-7.html#assignments",
     "href": "weeks/week-7.html#assignments",
     "title": "Week 7",
@@ -452,7 +2692,7 @@
     "href": "weeks/week-8.html",
     "title": "Week 8",
     "section": "",
-    "text": "Important\n\n\n\nExam 2 is due on Sunday, October 23"
+    "text": "Important\n\n\n\nExam 2 is due on Tuesday, October 25"
   },
   {
     "objectID": "weeks/week-8.html#readings",
@@ -480,7 +2720,7 @@
     "href": "weeks/week-9.html",
     "title": "Week 9",
     "section": "",
-    "text": "Important\n\n\n\n“Project Assignment 1: Outline and Sources” is due on Sunday, October 30"
+    "text": "Important\n\n\n\n“Project Assignment 1: Outline and Sources” is due on Sunday, November 6"
   },
   {
     "objectID": "weeks/week-9.html#readings",

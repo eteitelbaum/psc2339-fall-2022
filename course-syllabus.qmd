@@ -39,9 +39,9 @@ All academic readings are available through Gelman library proxy
 services except the following two texts, which students should purchase
 the following two texts from an online vendor:
 
-📖 Joseph Stiglitz, People, Power, and Profits
+📖 Joseph Stiglitz, *People, Power, and Profits*
 
-📖 John Judis, The Politics of Our Time
+📖 John Judis, *The Politics of Our Time*
 
 ## Dataquest
 

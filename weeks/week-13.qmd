@@ -5,7 +5,7 @@ editor: visual
 ---
 
 ::: callout-important
-"Project Assignment 2: White Paper" is due on Sunday, November 27
+"Project Assignment 2: White Paper" is due on Friday, December 2
 :::
 
 ::: callout-important
@@ -14,7 +14,8 @@ Tuesday's workshop will be held virtually on Zoom.
 
 ## Assignments
 
-✍️ Project Assignment 2: White Paper
+✍️ [Project Assignment 2: White
+Paper](/project/project-assignment-2.html)
 
 <br><br>
 
