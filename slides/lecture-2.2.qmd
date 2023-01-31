@@ -22,6 +22,7 @@ library(tidyverse)
 library(vdemdata)
 library(plotly)
 library(WDI)
+library(scales)
 
 theme_set(theme_minimal())
 
@@ -125,7 +126,7 @@ biggest_ppp <- gdp_ppp %>%
 -   Based on observation by Lipset (1959)
 -   Noted that democracy is highly correlated with development
 -   Took on guise of causal argument
-    -   Wealth → development
+    -   Wealth → democracy
     -   Led to decades of debate
 
 ## Some Stylized Facts
@@ -143,7 +144,7 @@ biggest_ppp <- gdp_ppp %>%
 modernization <- ggplot(polyarchy_pre1945, aes(x = gdp_pc, y = polyarchy)) + 
   geom_point() + 
   geom_smooth(method = "lm", size = 1) + 
-  scale_x_log10() +
+  scale_x_log10(labels = label_dollar()) +
   aes(label = country) + # need so ggplot retains label for plotly
   labs(x= "GDP Per Capita", y = "Polyarchy Score",
        title = "Wealth and democracy, 1789 - 1945")
@@ -171,7 +172,7 @@ ggplotly(modernization, tooltip = c("country", "polyarchy")) %>%
 modernization <- ggplot(polyarchy_postwar, aes(x = gdp_pc, y = polyarchy)) + 
   geom_point() + 
   geom_smooth(method = "lm", size = 1) + 
-  scale_x_log10() +
+  scale_x_log10(labels = label_dollar()) +
   aes(label = country) +
   labs(x= "GDP Per Capita", y = "Polyarchy Score",
        title = "Wealth and democracy after WWII")
@@ -244,7 +245,7 @@ region_plot <- ggplot(polyarchy_postwar, aes(x = gdp_pc, y = polyarchy)) +
   geom_point() + 
   geom_smooth(method = "lm", se = FALSE, size = .75) + 
   facet_wrap(~ region) + 
-  scale_x_log10() +
+  scale_x_log10(labels = label_dollar()) +
   aes(label = country) + # need to retain label to give to plotly
   #geom_text(hjust = 0, nudge_x = .2, size = 1.5, aes(label = country_name)) +
   labs(x= "GDP Per Capita", y = "Polyarchy Score",
@@ -277,7 +278,7 @@ ggplotly(region_plot, tooltip = c("country", "polyarchy")) %>%
 region_plot <- ggplot(polyarchy_annual, aes(x = gdp_pc, y = polyarchy)) + 
   geom_point(aes(color = wave)) + 
   geom_smooth(method = "lm", se = FALSE, size = .75) + 
-  scale_x_log10() +
+  scale_x_log10(labels = label_dollar()) +
   aes(label = year) +
   labs(x= "GDP Per Capita", y = "Polyarchy Score",
        title = "Democracy, development and Huntington's three waves") +

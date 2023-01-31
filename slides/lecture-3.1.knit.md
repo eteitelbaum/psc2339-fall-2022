@@ -14,38 +14,8 @@ execute:
   freeze: auto
 ---
 
-```{r, setup}
-#| label: setup
-#| include: false
-library(tidyverse)
-library(vdemdata)
 
-theme_set(theme_minimal())
 
-regime_type <- vdem %>%
-  filter(year >= 1975) %>%
-  select(country = country_name, year, regime_type = v2x_regime) %>%
-  mutate(
-    closed = if_else(regime_type == 0, 1, 0),
-    electoral_a = if_else(regime_type == 1, 1, 0),
-    electoral_d = if_else(regime_type == 2, 1, 0),
-    lib_dem = if_else(regime_type == 3, 1, 0),
-    num_ctrs = n_distinct(country)
-  ) 
-
-pct_regimes <- regime_type %>%
-  group_by(year, regime_type) %>%
-  summarize(n = n()) %>%
-  mutate(percent = 100*(n / sum(n))) %>%
-  select(!n) %>%
-  arrange(regime_type) %>%
-  mutate(regime_type = recode(regime_type, 
-                              `0` = "closed",
-                              `1` = "electoral_auth",
-                              `2` = "electoral_dem",
-                              `3` = "liberal_dem")) %>%
-  drop_na()
-```
 
 # What is Backsliding
 
@@ -71,13 +41,13 @@ autocracies."
 
 ## Regime Type Trends
 
-```{r}
-ggplot(pct_regimes, aes(x = year, y = percent, color = regime_type)) +
-  geom_line(size = 1) +
-  labs(x = NULL, y = "Percent", 
-       title = "Trends in Regime Type, 1975 - Present\n") +
-  scale_color_brewer(palette = "Dark2", name = "Regime Type") 
-```
+
+::: {.cell}
+::: {.cell-output-display}
+![](lecture-3.1_files/figure-revealjs/unnamed-chunk-1-1.png){width=960}
+:::
+:::
+
 
 ## Examples
 
@@ -203,3 +173,4 @@ ggplot(pct_regimes, aes(x = year, y = percent, color = regime_type)) +
     -   Start with electoral democracy and expand
 
 \*\* What interesting patterns/questions arise?
+
