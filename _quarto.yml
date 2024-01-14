@@ -55,6 +55,12 @@ website:
             text: Useful links
           - href: faq.qmd
             text: FAQ
+      - section: "Assignments"
+        contents:
+          - href: assignments/data-assignment-1.qmd
+            text: "Data assignment 1"
+          - href: assignments/data-assignment-2.qmd
+            text: "Data assignment 2"
       - section: "Project"
         contents:
            #- href: project-description.qmd

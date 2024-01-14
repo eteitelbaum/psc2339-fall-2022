@@ -2,7 +2,7 @@
 title: "Lecture 3.1"
 subtitle: "Democratic Backsliding"
 author: "Emmanuel Teitelbaum"
-footer: "[PSC 2339 Website](https://psc2339.com)"
+footer: "[CPE Website](https://psc2339.com)"
 logo: "images/cpe_logo.png"
 format:
   revealjs:
